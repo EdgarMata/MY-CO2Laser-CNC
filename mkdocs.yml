@@ -1,15 +1,18 @@
+# Project information
 site_name: MY-CO2Laser-CNC
-
 site_url: "https://my-machines.net/My-CO2Laser-CNC/"
 site_author: "Edgar Mata"
 site_description: "Centro de conhecimento My Machines"
 
+# Repository
 repo_name: "MY-CO2Laser-CNC"
 repo_url: "https://github.com/EdgarMata/MY-CO2Laser-CNC"
 
+# Copyright
 copyright: |
-  &copy; 2024 <a href="https://my-machines.net/" target="_blank" rel="noopener">My Machines, LDA</a>
+  &copy; 2024 <a href="https://my-machines.net/" target="_blank" rel="noopener">My Machines</a>
 
+# Configuration
 theme:
   logo: assets/mylogo.svg
   favicon: images/favicon.png
