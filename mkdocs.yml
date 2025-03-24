@@ -32,8 +32,7 @@ theme:
     - content.tabs.link
     - content.code.annotate
     - content.code.copy
-    - header.autohide
-  
+    - header.autohide  
   palette:
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
