@@ -1,42 +1,42 @@
-# Pagina de Downloads
+# Download Page
 
 ## Software
 
 !!! success ""
 
-    ### Download Versão 1.5.1
-    Clique botão seguinte para fazer download do software.
+    ### Download Version 1.5.1
+    Click the following button to download the software.
     
-    Saiba mais detalhes sobre como instalar o software na nossa secção [Studio]
+    Learn more details about how to install the software in our [Studio] section.
 
     [Studio]: https://edgarmata.github.io/Carbon-FAQS/studio/instalar-software/
 
-    [Donwload](https://drive.google.com/file/d/1ZpGXJ9PmYbZm80LpIJZZhfoUxNVPbZFS/view?usp=drive_link){ .md-button target="_blank"}   
+    [Download](https://drive.google.com/file/d/1ZpGXJ9PmYbZm80LpIJZZhfoUxNVPbZFS/view?usp=drive_link){ .md-button target="_blank"}   
 
 ---
 
-## Manuais
+## Manuals
 
 !!! success ""
 
-    ### Manual Carbon
-    Clique botão seguinte para fazer download do manual Carbon em PDF.
+    ### Carbon Manual
+    Click the following button to download the Carbon manual in PDF.
     
-    Saiba que tambem pode ler o manual aqui neste site na secção [Manual]
+    You can also read the manual here on this site in the [Manual] section.
 
     [Manual]: https://edgarmata.github.io/Carbon-FAQS/manual/
 
-    [Donwload](https://drive.google.com/file/d/13DUftgwJGqejUsqd7jw9DPkOKlijwGHv/view?usp=sharing){ .md-button target="_blank"}
+    [Download](https://drive.google.com/file/d/13DUftgwJGqejUsqd7jw9DPkOKlijwGHv/view?usp=sharing){ .md-button target="_blank"}
 
 ---
 
 !!! success ""
 
-    ### Manual de manutenção Carbon
-    Clique botão seguinte para fazer download do manual de manutenção Carbon em PDF.
+    ### Carbon Maintenance Manual
+    Click the following button to download the Carbon maintenance manual in PDF.
     
-    Saiba que tambem pode ler o manual aqui neste site na secção [Manual]
+    You can also read the manual here on this site in the [Manual] section.
 
     [Manual]: https://edgarmata.github.io/Carbon-FAQS/manual/
 
-    [Brevemente](#){ .md-button }
+    [Coming Soon](#){ .md-button }

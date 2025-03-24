@@ -1,85 +1,85 @@
-# Instalação do Carbon Studio
+# Installation of Carbon Studio
 
-Neste guia, vamos explicar como você pode instalar os programas necessários para usar a sua Gadget no Windows 10 ou em versões mais recentes.
+In this guide, we will explain how you can install the necessary programs to use your Gadget on Windows 10 or later versions.
 
-## Software Carbon Studio
+## Carbon Studio Software
 
-O Carbon Studio é uma versão melhorada do Inkscape, projetada especificamente para facilitar o uso da sua Carbon. Atualmente, está disponível apenas para sistemas operativos Windows 10 ou superiores.
+Carbon Studio is an improved version of Inkscape, specifically designed to facilitate the use of your Carbon. Currently, it is only available for Windows 10 or higher operating systems.
 
-## Instruções para instalar o Carbon Studio
+## Instructions to install Carbon Studio
 <!--
-Você pode seguir as instruções deste vídeo:
+You can follow the instructions in this video:
 
-[Vídeo 1: Instalando e utilizando o Carbon Studio.]
+[Video 1: Installing and using Carbon Studio.]
 
-Ou, se preferir, siga os passos abaixo:
+Or, if you prefer, follow the steps below:
 -->
 
-* Acesse a página de [downloads] do software.
-* Escolha o link do Carbon Studio compatível sua Carbon.
-* Será redirecionado para uma página no Google Drive. Clique em ==Transferir== > ==Transferir mesmo assim== para iniciar o download. ==Fig 1:==
+* Access the [downloads] page of the software.
+* Choose the link of Carbon Studio compatible with your Carbon.
+* You will be redirected to a page on Google Drive. Click on ==Download== > ==Download anyway== to start the download. ==Fig 1:==
 
 [downloads]: https://edgarmata.github.io/Carbon-FAQS/transferencias/
 
 <figure markdown="span">
 
    ![](../images/googledrive-alerta.png){ width="504" }
-   <figcaption>Fig 1: Alerta Google Drive.</figcaption>
+   <figcaption>Fig 1: Google Drive Alert.</figcaption>
 
 </figure>
 
-!!! info "Aviso Antivírus"
+!!! info "Antivirus Warning"
       
-      Caso seu navegador ou antivírus identifique o programa como “Malicioso” ou “Desconhecido”, você pode prosseguir com o download. O Carbon Studio é seguro e livre de vírus.
+      If your browser or antivirus identifies the program as “Malicious” or “Unknown”, you can proceed with the download. Carbon Studio is safe and virus-free.
 
-* Após o download, execute o programa descarregado.
-* Se uma mensagem de segurança do Windows aparecer, clique em ^^Mais informações^^ e de seguida ==Executar assim mesmo==
+* After the download, run the downloaded program.
+* If a Windows security message appears, click on ^^More info^^ and then ==Run anyway==
 
 <figure markdown="span">
 
    ![](../images/windows-difender.png){ width="800" }
-   <figcaption>Fig 2: Alerta de Segurança do Windows.</figcaption>
+   <figcaption>Fig 2: Windows Security Alert.</figcaption>
 
 </figure>
 
-!!! success "Pode continuar"
+!!! success "You can continue"
 
-      Clique em ==Executar assim mesmo== para abrir o instalador. ==Fig: 2==
+      Click on ==Run anyway== to open the installer. ==Fig: 2==
 
 <figure markdown="span">
 
    ![](../images/permissão-admin.png){ width="480" }
-   <figcaption>Fig 3: Permissão Administrador.</figcaption>
+   <figcaption>Fig 3: Administrator Permission.</figcaption>
 
 </figure>
 
-* Se solicitado, conceda permissões de administrador para concluir a instalação. ==Fig 3:==
-* No instalador siga as instruções das figuras a baixo.
-* Quando o processo terminar, clique em ==Concluir==.
+* If prompted, grant administrator permissions to complete the installation. ==Fig 3:==
+* In the installer, follow the instructions in the figures below.
+* When the process is finished, click on ==Finish==.
 
 <figure markdown="span">
 
    ![](../images/setup01.png){ width="380" }
-   <figcaption>Fig 4: Instalar</figcaption>
+   <figcaption>Fig 4: Install</figcaption>
   
    ![](../images/setup02.png){ width="625" }
-   <figcaption>Fig 5: Instalar</figcaption>
+   <figcaption>Fig 5: Install</figcaption>
 
    ![](../images/setup03.png){ width="625" }
-   <figcaption>Fig 6: Instalar</figcaption>
+   <figcaption>Fig 6: Install</figcaption>
 
    ![](../images/setup04.png){ width="625" }
-   <figcaption>Fig 7: Instalar</figcaption>
+   <figcaption>Fig 7: Install</figcaption>
 
    ![](../images/setup05.png){ width="625" }
-   <figcaption>Fig 8: Instalar</figcaption>
+   <figcaption>Fig 8: Install</figcaption>
   
 </figure>
 
-* Pronto, o Carbon Studio está instalado no seu sistema!
+* Done, Carbon Studio is installed on your system!
 
-Quer aprender mais sobre como utilizar o software? Continue acompanhando nossa série de artigos sobre o Carbon Studio [Aqui].
+Want to learn more about how to use the software? Keep following our series of articles about Carbon Studio [Here].
 
-[Aqui]: https://edgarmata.github.io/Carbon-FAQS/studio/altualiza%C3%A7%C3%A3o-software/
+[Here]: https://edgarmata.github.io/Carbon-FAQS/studio/altualiza%C3%A7%C3%A3o-software/
 
-Você aprendeu como instalar os software necessário para controlar a sua Carbon no Windows 10 ou em versões mais recentes. Agora, o próximo passo é conectar a sua Carbon ao computador.
+You have learned how to install the necessary software to control your Carbon on Windows 10 or later versions. Now, the next step is to connect your Carbon to the computer.

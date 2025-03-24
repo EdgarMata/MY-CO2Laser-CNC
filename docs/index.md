@@ -3,7 +3,7 @@ hide:
     - navigation
 #    - toc
 ---
-# OLÁ COMO PODEMOS AJUDAR?
+# HELLO HOW CAN WE HELP?
 
 <figure markdown="span">
 
@@ -12,63 +12,63 @@ hide:
 
 </figure>
 
-## Bem vindo ao centro de conhecimento Carbon
+## Welcome to the Carbon knowledge center
 
 <div class="grid cards" markdown>
 
--   :fontawesome-solid-book-open:{ .lg .middle } __Manual de instuções__
+-   :fontawesome-solid-book-open:{ .lg .middle } __Instruction Manual__
 
     ---
 
-    Nesta secção encontra tudo o que precisa sobre os manuais da Carbon assim como fazer donload dos mesmos.
+    In this section, you will find everything you need about the Carbon manuals and how to download them.
 
-    [:octicons-arrow-right-24: Saber Mais](https://edgarmata.github.io/Carbon-FAQS/manual/)
+    [:octicons-arrow-right-24: Learn More](https://edgarmata.github.io/Carbon-FAQS/manual/)
 
--   :fontawesome-solid-screwdriver-wrench:{ .lg .middle } __Ajuda com manutenção__
-
-    ---
-
-    Precisa de informação sobre como fazer qualquer tipo de manutenção na sua Carbom, então aqui é o lugar.
-
-    [:octicons-arrow-right-24: Saber Mais](https://edgarmata.github.io/Carbon-FAQS/manuten%C3%A7%C3%A3o/%C3%A1gua/agua-na-carbon/)
-
--   :fontawesome-brands-app-store:{ .lg .middle } __Ajuda com o Carbon Studio__
+-   :fontawesome-solid-screwdriver-wrench:{ .lg .middle } __Maintenance Help__
 
     ---
 
-    Dos primeiros passos com o Carbon Studio, até á ajuda avançada, aqui vai encontrar varios artigos para a sua formação com o software.
+    Need information on how to perform any type of maintenance on your Carbon? This is the place.
 
-    [:octicons-arrow-right-24: Saber Mais](https://edgarmata.github.io/Carbon-FAQS/studio/instalar-software/)
+    [:octicons-arrow-right-24: Learn More](https://edgarmata.github.io/Carbon-FAQS/manuten%C3%A7%C3%A3o/%C3%A1gua/agua-na-carbon/)
 
--   :fontawesome-solid-triangle-exclamation:{ .lg .middle } __Resolução de problermas__
-
-    ---
-
-    Tem algum problema com a sua maquina? Encontre aqui algumas soluções simples que o podem ajudar bastante.
-
-    [:octicons-arrow-right-24: Saber Mais](https://edgarmata.github.io/Carbon-FAQS/troubleshooting/corte-diferente/ajustar-correias/)
-
--   :fontawesome-solid-helmet-safety:{ .lg .middle } __Ajuda com Segurança__
+-   :fontawesome-brands-app-store:{ .lg .middle } __Help with Carbon Studio__
 
     ---
 
-    O seguro morreu de velho, sabia tudo sobre como trabalhar em segurança com a sua Carbom.
+    From the first steps with Carbon Studio to advanced help, here you will find various articles for your training with the software.
 
-    [:octicons-arrow-right-24: Saber Mais](https://edgarmata.github.io/Carbon-FAQS/seguran%C3%A7a/instruc%C3%B5es-seguranca/)
+    [:octicons-arrow-right-24: Learn More](https://edgarmata.github.io/Carbon-FAQS/studio/instalar-software/)
 
--   :fontawesome-solid-wand-magic-sparkles:{ .lg .middle } __Aprender com truques e dicas__
+-   :fontawesome-solid-triangle-exclamation:{ .lg .middle } __Troubleshooting__
 
     ---
 
-    Deseja aprender só mais um pouquinho? Então é aqui...
+    Having a problem with your machine? Find some simple solutions here that can help you a lot.
 
-    [:octicons-arrow-right-24: Saber Mais](https://edgarmata.github.io/Carbon-FAQS/truques-%26-dicas/vetorizar-imagem/)          
+    [:octicons-arrow-right-24: Learn More](https://edgarmata.github.io/Carbon-FAQS/troubleshooting/corte-diferente/ajustar-correias/)
+
+-   :fontawesome-solid-helmet-safety:{ .lg .middle } __Safety Help__
+
+    ---
+
+    Safety first, learn everything about working safely with your Carbon.
+
+    [:octicons-arrow-right-24: Learn More](https://edgarmata.github.io/Carbon-FAQS/seguran%C3%A7a/instruc%C3%B5es-seguranca/)
+
+-   :fontawesome-solid-wand-magic-sparkles:{ .lg .middle } __Learn with Tips and Tricks__
+
+    ---
+
+    Want to learn just a little more? Then this is the place...
+
+    [:octicons-arrow-right-24: Learn More](https://edgarmata.github.io/Carbon-FAQS/truques-%26-dicas/vetorizar-imagem/)          
 
 </div>
 
-## Não encontrou o que procurava?
+## Didn't find what you were looking for?
 
-Entre em contacto diretamente connossco, estamos aqui para ajudar.
+Contact us directly, we are here to help.
 
 <!DOCTYPE html>
 <html lang="en">
