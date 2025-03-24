@@ -1,41 +1,42 @@
-# Gadget Carbon Safety Instructions:
+# Instruções de Segurança Gadget Carbon:
 
-At Gadget, our priority is to ensure your safety and the safety of the machine. Therefore, it is crucial that you read this article carefully and follow our guidelines.
+Na Gadget, a nossa prioridade é garantir a sua segurança e a segurança da máquina. Portanto, é crucial que você leia atentamente este artigo e siga as nossas orientações.
 
-## Maintain constant supervision!
+## Mantenha uma supervisão constante!
 
-It is essential that you never leave your Gadget Carbon operating without your attention. When starting any task, closely monitor the cutting and marking operations throughout the process.
+É essencial que você nunca deixe a sua Gadget Carbon operar sem a sua atenção. Ao iniciar qualquer tarefa, acompanhe de perto as operações de corte e marcação durante todo o processo.
 
-If you notice any irregularities, immediately turn off the machine.
+Se perceber qualquer irregularidade, desligue imediatamente a máquina.
 
-## Always operate with the lid closed
+## Opere sempre com a tampa fechada
 
-For your safety, the Gadget Carbon automatically stops working when the lid is opened and resumes from where it left off when the lid is closed. However, if you lift the lid and the work continues, avoid placing your hands inside the machine.
-The laser beam is invisible and reflects on the side mirrors of the machine, which can cause skin burns.
+Para a sua segurança, a Gadget Carbon interrompe automaticamente o trabalho quando a tampa é aberta e retoma do ponto onde parou quando a tampa é fechada. No entanto, se levantar a tampa e o trabalho continuar, evite colocar as mãos dentro da máquina.
+O feixe do laser é invisível e reflete nos espelhos laterais da máquina, podendo causar queimaduras na pele.
+<!--
+Confira o vídeo abaixo sobre as instruções de segurança:
 
-Check out the video below for safety instructions:
+Adicionar Vídeo Aqui
+-->
 
-Add Video Here
+## Esteja atento à exaustão
 
-## Be aware of exhaust
+Ao cortar ou marcar materiais, eles liberam gases que podem ser prejudiciais à saúde. Certifique-se de que a exaustão está funcionando corretamente instalando a mangueira de exaustão da sua Gadget Carbon em uma saída de ar.
 
-When cutting or marking materials, they release gases that can be harmful to health. Make sure the exhaust is working properly by installing the exhaust hose of your Gadget Carbon to an air outlet.
+## Materiais proibidos na Gadget Carbon
 
-## Prohibited materials in Gadget Carbon
-
-Some materials, when burned (the laser cutting and engraving method), produce toxic gases that are harmful to health and the machine, and are prohibited from use in Gadget laser machines. Check the list:
+Alguns materiais, quando queimados (o método de corte e gravação a laser), produzem gases tóxicos prejudiciais à saúde e à máquina, sendo proibidos no uso das máquinas laser Gadget. Consulte a lista:
 
 * PVC
-* VINYL
+* VINIL
 * ABS
-* FIBERGLASS
-* CARBON FIBER
-* Any material containing CHLORINE
+* FIBRA DE VIDRO
+* FIBRA DE CARBONO
+* Qualquer material que contenha CLORO
 
-If you have any questions about the use of certain materials, contact Support or check the list of recommended materials in the Gadget store.
+Em caso de dúvidas sobre o uso de determinados materiais, entre em contato com o Suporte ou confira a lista de materiais recomendados na loja Gadget.
 
-## Keep preventive maintenance up to date
+## Manutenção preventiva em dia
 
-Preventive maintenance is crucial to keep your Gadget Carbon in full operation and avoid problems. Pay attention to the intervals to perform the procedures. You can download the maintenance manual here or follow our series of articles on the topic.
+A manutenção preventiva é crucial para manter a sua Gadget Carbon em pleno funcionamento e evitar problemas. Fique atento aos intervalos para realizar os procedimentos. Você pode baixar o manual de manutenção aqui ou acompanhar nossa série de artigos sobre o tema.
 
-In this article, we highlighted some important points to ensure you use your Carbon safely. If you have any questions, contact support!
+Neste artigo, destacamos alguns pontos importantes para garantir que você utilize sua Carbon com segurança. Em caso de dúvidas, entre em contato com o suporte!
