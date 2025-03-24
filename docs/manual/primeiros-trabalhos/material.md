@@ -1,99 +1,99 @@
-# Ajustar posição do material
+# Adjusting Material Position
 
-Aqui vamos explorar um passo essencial para garantir o sucesso dos nossos cortes:
+Here we will explore an essential step to ensure the success of our cuts:
 
-O posicionamento do desenho no material. Para isso, é crucial compreender o funcionamento do painel de controle no Carbon Studio. Que tal dar uma olhada a esse artigo da nossa série sobre o [Studio]?
+Positioning the design on the material. For this, it is crucial to understand the operation of the control panel in Carbon Studio. How about taking a look at this article from our series on [Studio]?
 
-Já se sente confortável em operar a máquina? Então vamos para o próximo passo!
+Already feel comfortable operating the machine? Then let's move on to the next step!
 
 [Studio]: https://gadgetpluskdb.github.io/Carbon-FAQS/studio/primeiros-passos/comando-movimento/
 
-Ajustando o desenho na área de trabalho do Carbon Studio
-Independentemente se o desenho foi criado dentro do Carbon Studio ou importado de outro software, é necessário posicioná-lo na posição zero dentro do software.
+Adjusting the design in the Carbon Studio workspace
+Regardless of whether the design was created within Carbon Studio or imported from another software, it is necessary to position it at zero within the software.
 
-* Selecione os elementos que deseja cortar. A posição em relação aos eixos X e Y é indicada nas caixas destacadas na Figura 1.
+* Select the elements you want to cut. The position relative to the X and Y axes is indicated in the highlighted boxes in Figure 1.
 
 <figure markdown="span">
 
   ![](../images/posicionamento.png){ width="628" }
-  <figcaption>Figura 1 - Desenhos em local aleatório</figcaption>
+  <figcaption>Figure 1 - Designs in random location</figcaption>
 
 </figure>
 
-* Ajuste a posição dos desenhos para X=0 e Y=0. Isso moverá os elementos selecionados para a posição zero dentro do software.
+* Adjust the position of the designs to X=0 and Y=0. This will move the selected elements to the zero position within the software.
 
 <figure markdown="span">
 
   ![](../images/posicionamento_0x0.png){ width="486" }
-  <figcaption>Figura 2 - Desenhos na posição zero</figcaption>
+  <figcaption>Figure 2 - Designs at zero position</figcaption>
 
 </figure>
 
-O Carbon Studio reconhece o canto superior esquerdo como ponto inicial.
+Carbon Studio recognizes the top left corner as the starting point.
 
-## Definindo o ponto inicial de corte na Carbon
+## Setting the starting point of the cut in Carbon
 
-Para que a máquina saiba de onde iniciar o corte, é necessário definir o ponto inicial.
+To let the machine know where to start the cut, it is necessary to set the starting point.
 
-* Movimente o cabeçote do laser com as setas no painel de controle.
+* Move the laser head with the arrows on the control panel.
 
 <figure markdown="span">
 
   ![](../images/ferramenta-mov-01.png){ width="443" }
-  <figcaption>Figura 3 - Movimentação cabeçote laser setas</figcaption>
+  <figcaption>Figure 3 - Laser head movement arrows</figcaption>
 
 </figure>
 
-* Escolha o local onde deseja iniciar o corte. Para otimizar o uso do material, posicione-o no canto superior esquerdo.
+* Choose the location where you want to start the cut. To optimize material usage, position it in the top left corner.
 
 <figure markdown="span">
 
   ![](../images/foto-interior-01.png){ width="800" }
-  <figcaption>Figura 4 - Posicionamento do cabeçote no material </figcaption>
+  <figcaption>Figure 4 - Positioning the head on the material</figcaption>
 
 </figure>
 
-* Considerando a posição do bico do laser, clique em "definir início" no painel de controle.
+* Considering the position of the laser nozzle, click "set start" on the control panel.
 
 <figure markdown="span">
 
   ![](../images/ferramenta-mov-02.png){ width="265" }
-  <figcaption>Figura 5 - Definir início</figcaption>
+  <figcaption>Figure 5 - Set start</figcaption>
 
 </figure>
 
-## Criando referências
+## Creating references
 
-Ao fazer esses ajustes de posicionamento, estabelecemos uma relação entre a posição do desenho no material e o início do corte: o ponto zero do desenho coincide com o ponto de início do corte!
+By making these positioning adjustments, we establish a relationship between the design position on the material and the start of the cut: the zero point of the design coincides with the starting point of the cut!
 
-A máquina considera sempre como ponto inicial a última definição realizada. Portanto, se mover o cabeçote do laser para uma nova posição e iniciar um novo corte, ele retornará ao ponto definido anteriormente! Defina sempre o ponto de início no software (Figura 3).
+The machine always considers the last set point as the starting point. Therefore, if you move the laser head to a new position and start a new cut, it will return to the previously set point! Always set the starting point in the software (Figure 3).
 
-## Verificando o posicionamento do desenho no material
+## Checking the design position on the material
 
-Para garantir o melhor aproveitamento da área de trabalho, é importante conhecer o espaço que o desenho ocupará no material. Para isso, utilizamos o recurso "Frame".
+To ensure the best use of the workspace, it is important to know the space the design will occupy on the material. For this, we use the "Frame" feature.
 
-* Selecione os elementos do desenho que deseja verificar e clique em "preview > frame", conforme indicado na Figura 4.
+* Select the design elements you want to check and click "preview > frame", as indicated in Figure 4.
 
 <figure markdown="span">
 
   ![](../images/preview-frame.png){ width="583" }
-  <figcaption>Figura 6 - Preview > Frame</figcaption>
+  <figcaption>Figure 6 - Preview > Frame</figcaption>
 
 </figure>
 
-* O recurso de frame facilita a utilização de retalhos de material, pois permite verificar se o desenho caberá no espaço desejado.
+* The frame feature facilitates the use of material scraps, as it allows you to check if the design will fit in the desired space.
 
 <figure markdown="span">
 
   ![](../images/foto-interior-02.png){ width="800" }
-  <figcaption>Figura 7 - Aproveitamento de retalhos</figcaption>
+  <figcaption>Figure 7 - Use of scraps</figcaption>
 
 </figure>
 
-## Tamanho do desenho vs. área de trabalho da Carbon.
+## Design size vs. Carbon workspace
 
-É crucial lembrar que o tamanho do objeto não pode exceder a área de trabalho da máquina, que é de 600mm de comprimento por 400mm de largura. Caso isso ocorra, seu trabalho não será executado corretamente e/ou o cabeçote do laser começará a bater nas laterais da máquina, emitindo um ruído indicando que está forçar o motor. Portanto, verifique sempre o tamanho do desenho na área de trabalho usando o recurso "frame".
+It is crucial to remember that the size of the object cannot exceed the machine's workspace, which is 600mm in length by 400mm in width. If this happens, your work will not be executed correctly and/or the laser head will start hitting the sides of the machine, emitting a noise indicating that it is forcing the motor. Therefore, always check the design size in the workspace using the "frame" feature.
 
-Neste artigo, exploramos como posicionar o desenho no material para otimizar nosso trabalho! Acompanhe-nos no próximo artigo, onde explicaremos como definir a [velocidade e potência] da máquina.
+In this article, we explored how to position the design on the material to optimize our work! Join us in the next article, where we will explain how to set the [speed and power] of the machine.
 
-[velocidade e potência]: https://gadgetpluskdb.github.io/Carbon-FAQS/manual/primeiros-trabalhos/velocidade-potencia/
+[speed and power]: https://gadgetpluskdb.github.io/Carbon-FAQS/manual/primeiros-trabalhos/velocidade-potencia/

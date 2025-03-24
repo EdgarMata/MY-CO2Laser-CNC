@@ -1,13 +1,13 @@
-# Transferências
+# Transfers
 
 ## Software
 
 !!! note ""
 
-    ### Carbon Studio Versão 1.5.1
-    Clique botão seguinte para fazer download do software.
+    ### Carbon Studio Version 1.5.1
+    Click the button below to download the software.
     
-    Saiba mais detalhes sobre como instalar o software na nossa secção [Studio]
+    Learn more details about how to install the software in our [Studio] section.
 
     [Studio]: https://gadgetpluskdb.github.io/Carbon-FAQS/studio/instalar-software/
 
@@ -17,74 +17,74 @@
 
 !!! note ""
 
-    ### Driver USB
-    Clique no botão seguinte para fazer download do driver adequado á nossa controladora.
+    ### USB Driver
+    Click the button below to download the appropriate driver for our controller.
 
-    Saiba mais detalhes sobre a conecção USB [aqui].
+    Learn more details about the USB connection [here].
 
-    [aqui]: https://gadgetpluskdb.github.io/Carbon-FAQS/studio/conex%C3%A3o-computador/#conexao-via-usb
+    [here]: https://gadgetpluskdb.github.io/Carbon-FAQS/studio/conex%C3%A3o-computador/#conexao-via-usb
 
     [Download](https://drive.google.com/file/d/10JnDWMeaWblnzpIX60-MD6HoB6qVqJ4M/view?usp=sharing){ .md-button target="_blank"}
     
-## Manuais
+## Manuals
 
 !!! note ""
 
-    ### Manual Carbon
-    Clique botão seguinte para fazer download do manual Carbon em PDF.
+    ### Carbon Manual
+    Click the button below to download the Carbon manual in PDF.
     
-    Saiba que tambem pode ler o manual aqui neste site na secção [Manual]
+    You can also read the manual here on this site in the [Manual] section.
 
     [Manual]: https://gadgetpluskdb.github.io/Carbon-FAQS/manual/
 
     [Download](https://drive.google.com/file/d/1BYpAEwMVH_CSKg_psk-4yMmy8Keej1tb/view?usp=sharing){ .md-button target="_blank"}
 
-    ### Manual de manutenção Carbon
-    Clique botão seguinte para fazer download do manual de manutenção Carbon em PDF.
+    ### Carbon Maintenance Manual
+    Click the button below to download the Carbon maintenance manual in PDF.
     
-    Saiba que tambem pode ler o manual aqui neste site na secção [Manual]
+    You can also read the manual here on this site in the [Manual] section.
 
     [Manual]: https://egadgetpluskdb.github.io/Carbon-FAQS/manual/
 
-    [Brevemente](#){ .md-button }
+    [Coming Soon](#){ .md-button }
 
-## Arquivos para testes de Corte
+## Test Files for Cutting
 
 !!! note ""
 
-    ### Testes de corte para gravação
-    Os seguintes link's incluem o projeto em SVG e o projeto em G-CODE para a sua Carbon.
+    ### Cutting Tests for Engraving
+    The following links include the project in SVG and the project in G-CODE for your Carbon.
 
     [Download](https://drive.google.com/file/d/11eEqIUcx1SF6gMWhjog7JDLEOrdE9dc8/view?usp=sharing){ .md-button target="_blank"}
 
-    ### Testes para corte Genérico
-    Os seguintes link's incluem  o projeto em SVG e o projeto em G-CODE para a sua Carbon.
+    ### Generic Cutting Tests
+    The following links include the project in SVG and the project in G-CODE for your Carbon.
 
     [Download](https://drive.google.com/file/d/1TqYL2vwF50MRdcPyGatzLiguYWQMnyKe/view?usp=sharing){ .md-button target="_blank"}
 
-    ### Testes para corte de material leve
-    Os seguintes link's incluem  o projeto em SVG e o projeto em G-CODE para a sua Carbon.
+    ### Light Material Cutting Tests
+    The following links include the project in SVG and the project in G-CODE for your Carbon.
 
     [Download](https://drive.google.com/file/d/1MHsutLMgGS1hPpmqIzFYeyYf0WazbsKG/view?usp=sharing){ .md-button target="_blank"}
 
-    ### Testes para corte de material rigido
-    Os seguintes link's incluem  o projeto em SVG e o projeto em G-CODE para a sua Carbon.
+    ### Rigid Material Cutting Tests
+    The following links include the project in SVG and the project in G-CODE for your Carbon.
 
     [Download](https://drive.google.com/file/d/1YQ8g6jjjvwMGDgkdkSCr4OcjbvWS8gBA/view?usp=sharing){ .md-button target="_blank"} 
 
-## Tabela de parâmetros pdf.
+## Parameter Table PDF
 
 !!! note ""
 
-    ### Tabela em formato pdf
-    Para saber mais sobre os difrentes parâmetros consulte os seguintes links. 
+    ### Table in PDF format
+    To learn more about the different parameters, check the following links. 
 
-    [Tabela de parametros] - [Teste de parametros] - [A influencia da velocidade e potência]
+    [Parameter Table] - [Parameter Test] - [The Influence of Speed and Power]
 
-    [Tabela de parametros]: https://gadgetpluskdb.github.io/Carbon-FAQS/truques-%26-dicas/tabela-parametros/
+    [Parameter Table]: https://gadgetpluskdb.github.io/Carbon-FAQS/truques-%26-dicas/tabela-parametros/
     
-    [Teste de parametros]: https://gadgetpluskdb.github.io/Carbon-FAQS/truques-%26-dicas/testes-parametros/
+    [Parameter Test]: https://gadgetpluskdb.github.io/Carbon-FAQS/truques-%26-dicas/testes-parametros/
     
-    [A influencia da velocidade e potência]: https://gadgetpluskdb.github.io/Carbon-FAQS/truques-%26-dicas/influ-velocidade-material/
+    [The Influence of Speed and Power]: https://gadgetpluskdb.github.io/Carbon-FAQS/truques-%26-dicas/influ-velocidade-material/
 
-    [Download](https://drive.google.com/file/d/1CxQx5le9MeyUz4vuLkVUGNjaVHhfYy4L/view?usp=sharing){ .md-button target="_blank"}     
+    [Download](https://drive.google.com/file/d/1CxQx5le9MeyUz4vuLkVUGNjaVHhfYy4L/view?usp=sharing){ .md-button target="_blank"}

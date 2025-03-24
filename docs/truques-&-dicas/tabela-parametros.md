@@ -1,97 +1,96 @@
-# Tabela de velocidades e potências para a Carbon
+# Table of Speeds and Powers for the Carbon
 
-Existem numerosos materiais que podem ser submetidos ao corte e gravação a laser, oferecendo uma ampla gama de opções para explorar na sua Carbon. À exceção de certos materiais, como PVC e Vinil, que podem ser prejudiciais quando cortados, a lista de materiais compatíveis é extensa.
+There are numerous materials that can be subjected to laser cutting and engraving, offering a wide range of options to explore with your Carbon. Except for certain materials, such as PVC and Vinyl, which can be harmful when cut, the list of compatible materials is extensive.
 
-Dado que o laser "queima" essencialmente o material para realizar o corte ou a gravação, é natural esperar que a potência necessária varie de acordo com o tipo de material. Por exemplo, a potência exigida para cortar papel será consideravelmente diferente daquela requerida para cortar madeira.
+Since the laser essentially "burns" the material to perform the cut or engraving, it is natural to expect that the required power will vary according to the type of material. For example, the power required to cut paper will be considerably different from that required to cut wood.
 
-Mesmo dentro da categoria de papéis, pode haver variações no acabamento dependendo dos parâmetros utilizados. Alguns papéis podem apresentar um acabamento melhor com determinados ajustes, enquanto outros podem exigir uma série de testes para encontrar a configuração ideal.
+Even within the category of papers, there may be variations in the finish depending on the parameters used. Some papers may present a better finish with certain adjustments, while others may require a series of tests to find the ideal setting.
 
-Para garantir tanto a qualidade do acabamento quanto a viabilidade do corte em um determinado material, é essencial realizar testes práticos. Desenvolvemos um [artigo] onde disponibilizamos testes com diferentes configurações de parâmetros, permitindo que você determine as melhores opções para seus materiais e aplicações específicas.
+To ensure both the quality of the finish and the feasibility of cutting a particular material, it is essential to conduct practical tests. We have developed an [article] where we provide tests with different parameter settings, allowing you to determine the best options for your specific materials and applications.
 
-[artigo]: https://gadgetpluskdb.github.io/Carbon-FAQS/truques-%26-dicas/testes-parametros/
+[article]: https://gadgetpluskdb.github.io/Carbon-FAQS/truques-%26-dicas/testes-parametros/
 
-Os valores apresentados na tabela abaixo são uma referência inicial e um ponto de partida para configurar os parâmetros de corte. No entanto, é importante ressaltar que esses valores podem variar dependendo da composição do material, da profundidade da gravação e de outros fatores específicos. Sugerimos a leitura do artigo ["A influencia da velocidade e potência para um mesmo material"] para entender melhor essas nuances e criar sua própria tabela personalizada.
+The values presented in the table below are an initial reference and a starting point for configuring the cutting parameters. However, it is important to note that these values may vary depending on the composition of the material, the depth of the engraving, and other specific factors. We suggest reading the article ["The influence of speed and power for the same material"] to better understand these nuances and create your own personalized table.
 
-["A influencia da velocidade e potência para um mesmo material"]: https://gadgetpluskdb.github.io/Carbon-FAQS/truques-%26-dicas/influ-velocidade-material/
+["The influence of speed and power for the same material"]: https://gadgetpluskdb.github.io/Carbon-FAQS/truques-%26-dicas/influ-velocidade-material/
 
-### Tabela
+### Table
 
-|Material                 |Especificação  |Objetivo                            |Potência  |Velocidade |
+|Material                 |Specification  |Objective                           |Power     |Speed      |
 |:---                     |:---           |:---                                |:---:     |:---:      |
-|Acrílico                 |2mm            |:fontawesome-solid-scissors: Corte  |100       |12         |
-|Acrílico                 |3mm            |:fontawesome-solid-scissors: Corte  |100       |10         |
-|Acrílico                 |4mm            |:fontawesome-solid-scissors: Corte  |100       |5          |
-|Acrílico                 |6mm            |:fontawesome-solid-scissors: Corte  |100       |3          |
-|Acrílico                 |Indiferente    |:material-printer: Preenchimento    |5         |100        |
-|EVA                      |1,6mm          |:fontawesome-solid-scissors: Corte  |20        |40         |
-|EVA                      |2mm            |:fontawesome-solid-scissors: Corte  |20        |25         |
-|EVA                      |8mm            |:fontawesome-solid-scissors: Corte  |30        |5          |
-|EVA                      |10mm           |:fontawesome-solid-scissors: Corte  |50        |15         |
-|EVA                      |Indiferente    |:material-draw-pen: Contorno        |10        |25         |
-|EVA                      |Indiferente    |:material-printer: Preenchimento    |5         |100        |
-|EVA adesivado c/ Glitter |2mm            |:fontawesome-solid-scissors: Corte  |25        |15         |
-|EVA adesivado            |1,5mm          |:fontawesome-solid-scissors: Corte  |20        |18         |
-|EVA c/ Glitter           |2mm            |:fontawesome-solid-scissors: Corte  |20        |25         |
-|Feltro                   |1,2mm          |:fontawesome-solid-scissors: Corte  |20        |50         |
-|Feltro                   |3mm            |:fontawesome-solid-scissors: Corte  |25        |22         |
-|Feltro                   |Indiferente    |:material-draw-pen: Contorno        |7         |50         |
-|Feltro                   |Indiferente    |:material-printer: Preenchimento    |5         |100        |
-|Papel                    |90g            |:fontawesome-solid-scissors: Corte  |10        |50         |
-|Papel                    |120g           |:fontawesome-solid-scissors: Corte  |10        |45         |
-|Papel                    |180g           |:fontawesome-solid-scissors: Corte  |10        |30         |
-|Papel                    |250g           |:fontawesome-solid-scissors: Corte  |10        |15         |
-|Papel                    |90g            |:material-draw-pen: Contorno        |8         |20         |
-|Papel                    |90g            |:material-printer: Preenchimento    |15        |100        |
-|XPS                      |5mm            |:fontawesome-solid-scissors: Corte  |25        |18         |
-|Petg                     |0,5mm          |:fontawesome-solid-scissors: Corte  |50        |12         |
-|Acetato                  |1mm            |:fontawesome-solid-scissors: Corte  |30        |18         |
-|Couro ecológico (PU)     |0,5mm          |:fontawesome-solid-scissors: Corte  |40        |20         |
-|Couro ecológico (PU)     |Indiferente    |:material-draw-pen: Contorno        |3         |10         |
-|Couro ecológico (PU)     |Indiferente    |:material-printer: Preenchimento    |1         |100        |
-|Bambu                    |3mm            |:fontawesome-solid-scissors: Corte  |100       |10         |
-|Bambu                    |5mm            |:fontawesome-solid-scissors: Corte  |100       |4-5        |
-|Bambu                    |Indiferente    |:material-draw-pen: Contorno        |15        |40         |
-|Bambu                    |Indiferente    |:material-printer: Preenchimento    |15        |100        |
-|Contraplacado Virola     |2,8mm          |:fontawesome-solid-scissors: Corte  |100       |12         |
-|Contraplacado Marfim     |2,8mm          |:fontawesome-solid-scissors: Corte  |100       |12         |
-|Contraplacado Curupixá   |1,8mm          |:fontawesome-solid-scissors: Corte  |100       |10         |
-|Contraplacado Tauari     |1,8mm          |:fontawesome-solid-scissors: Corte  |100       |10         |
-|Contraplacado Amapá      |1,8mm          |:fontawesome-solid-scissors: Corte  |100       |10         |
-|Contraplacado            |Indiferente    |:material-printer: Preenchimento    |15        |100        |
-|Madeira Sucupira         |2,5mm          |:fontawesome-solid-scissors: Corte  |100       |12         |
-|Madeira Sucupira         |Indiferente    |:material-draw-pen: Contorno        |20        |40         |
-|Madeira Sucupira         |Indiferente    |:material-printer: Preenchimento    |15        |100        |
-|MDF Pinho                |3mm            |:fontawesome-solid-scissors: Corte  |100       |10         |
-|MDF Pinho                |6mm            |:fontawesome-solid-scissors: Corte  |100       |3          |
-|MDF Pinho                |Indiferente    |:material-draw-pen: Contorno        |20        |40         |
-|MDF Pinho                |Indiferente    |:material-printer: Preenchimento    |15        |100        |
-|Balsa                    |1,5mm          |:fontawesome-solid-scissors: Corte  |40        |60-65      |
-|Balsa                    |Indiferente    |:material-draw-pen: Contorno        |15        |40         |
-|Balsa                    |Indiferente    |:material-printer: Preenchimento    |15        |100        |
-|Papel Couro              |Indiferente    |:material-draw-pen: Contorno        |15        |40         |
-|Papel Couro              |Indiferente    |:material-printer: Preenchimento    |10        |100        |
-|Papelão holler           |1,8mm          |:fontawesome-solid-scissors: Corte  |100       |12         |
-|Papelão holler           |2mm            |:fontawesome-solid-scissors: Corte  |100       |10         |
-|Papelão holler           |3mm            |:fontawesome-solid-scissors: Corte  |100       |7          |
-|Papelão holler           |Indiferente    |:fontawesome-solid-scissors: Vinco  |100       |30         |
-|Papelão holler           |Indiferente    |:material-draw-pen: Contorno        |10        |40         |
-|Papelão holler           |Indiferente    |:material-printer: Preenchimento    |10        |100        |
-|Tecido                   |Organza        |:fontawesome-solid-scissors: Corte  |12        |80         |
-|Tecido                   |Cetim          |:fontawesome-solid-scissors: Corte  |8/9       |80/90      |
-|Borracha carimbo laranja |2,2mm          |:fontawesome-solid-scissors: Corte  |100       |12         |
-|Borracha carimbo laranja |Indiferente    |:material-printer: Preenchimento    |80        |100        |
-|Borracha carimbo cinza   |2,2mm          |:fontawesome-solid-scissors: Corte  |100       |8          |
-|Tábua de madeira         |Indiferente    |:material-draw-pen: Contorno        |15        |50         |
-|Tábua de madeira         |Indiferente    |:material-printer: Preenchimento    |15        |100        |
-|Metal                    |Indiferente    |:material-printer: Preenchimento    |100       |50-10      |
-|Metal pintado            |Indiferente    |:material-printer: Preenchimento    |25/15     |100        |
-|Vidro                    |Indiferente    |:material-printer: Preenchimento    |10        |100        |
-|Espelho                  |Indiferente    |:material-draw-pen: Contorno        |10        |100        |
-|Copo Stanley             |Indiferente    |:material-printer: Preenchimento    |70        |150        |
-|Lápis                    |Indiferente    |:material-printer: Preenchimento    |20        |80         |
-|Lápis                    |Indiferente    |:material-draw-pen: Contorno        |10        |30         |
+|Acrylic                  |2mm            |:fontawesome-solid-scissors: Cut    |100       |12         |
+|Acrylic                  |3mm            |:fontawesome-solid-scissors: Cut    |100       |10         |
+|Acrylic                  |4mm            |:fontawesome-solid-scissors: Cut    |100       |5          |
+|Acrylic                  |6mm            |:fontawesome-solid-scissors: Cut    |100       |3          |
+|Acrylic                  |Indifferent    |:material-printer: Fill             |5         |100        |
+|EVA                      |1.6mm          |:fontawesome-solid-scissors: Cut    |20        |40         |
+|EVA                      |2mm            |:fontawesome-solid-scissors: Cut    |20        |25         |
+|EVA                      |8mm            |:fontawesome-solid-scissors: Cut    |30        |5          |
+|EVA                      |10mm           |:fontawesome-solid-scissors: Cut    |50        |15         |
+|EVA                      |Indifferent    |:material-draw-pen: Outline         |10        |25         |
+|EVA                      |Indifferent    |:material-printer: Fill             |5         |100        |
+|EVA with Glitter Adhesive|2mm            |:fontawesome-solid-scissors: Cut    |25        |15         |
+|EVA with Adhesive        |1.5mm          |:fontawesome-solid-scissors: Cut    |20        |18         |
+|EVA with Glitter         |2mm            |:fontawesome-solid-scissors: Cut    |20        |25         |
+|Felt                     |1.2mm          |:fontawesome-solid-scissors: Cut    |20        |50         |
+|Felt                     |3mm            |:fontawesome-solid-scissors: Cut    |25        |22         |
+|Felt                     |Indifferent    |:material-draw-pen: Outline         |7         |50         |
+|Felt                     |Indifferent    |:material-printer: Fill             |5         |100        |
+|Paper                    |90g            |:fontawesome-solid-scissors: Cut    |10        |50         |
+|Paper                    |120g           |:fontawesome-solid-scissors: Cut    |10        |45         |
+|Paper                    |180g           |:fontawesome-solid-scissors: Cut    |10        |30         |
+|Paper                    |250g           |:fontawesome-solid-scissors: Cut    |10        |15         |
+|Paper                    |90g            |:material-draw-pen: Outline         |8         |20         |
+|Paper                    |90g            |:material-printer: Fill             |15        |100        |
+|XPS                      |5mm            |:fontawesome-solid-scissors: Cut    |25        |18         |
+|Petg                     |0.5mm          |:fontawesome-solid-scissors: Cut    |50        |12         |
+|Acetate                  |1mm            |:fontawesome-solid-scissors: Cut    |30        |18         |
+|Eco Leather (PU)         |0.5mm          |:fontawesome-solid-scissors: Cut    |40        |20         |
+|Eco Leather (PU)         |Indifferent    |:material-draw-pen: Outline         |3         |10         |
+|Eco Leather (PU)         |Indifferent    |:material-printer: Fill             |1         |100        |
+|Bamboo                   |3mm            |:fontawesome-solid-scissors: Cut    |100       |10         |
+|Bamboo                   |5mm            |:fontawesome-solid-scissors: Cut    |100       |4-5        |
+|Bamboo                   |Indifferent    |:material-draw-pen: Outline         |15        |40         |
+|Bamboo                   |Indifferent    |:material-printer: Fill             |15        |100        |
+|Virola Plywood           |2.8mm          |:fontawesome-solid-scissors: Cut    |100       |12         |
+|Marfim Plywood           |2.8mm          |:fontawesome-solid-scissors: Cut    |100       |12         |
+|Curupixá Plywood         |1.8mm          |:fontawesome-solid-scissors: Cut    |100       |10         |
+|Tauari Plywood           |1.8mm          |:fontawesome-solid-scissors: Cut    |100       |10         |
+|Amapá Plywood            |1.8mm          |:fontawesome-solid-scissors: Cut    |100       |10         |
+|Plywood                  |Indifferent    |:material-printer: Fill             |15        |100        |
+|Sucupira Wood            |2.5mm          |:fontawesome-solid-scissors: Cut    |100       |12         |
+|Sucupira Wood            |Indifferent    |:material-draw-pen: Outline         |20        |40         |
+|Sucupira Wood            |Indifferent    |:material-printer: Fill             |15        |100        |
+|Pine MDF                 |3mm            |:fontawesome-solid-scissors: Cut    |100       |10         |
+|Pine MDF                 |6mm            |:fontawesome-solid-scissors: Cut    |100       |3          |
+|Pine MDF                 |Indifferent    |:material-draw-pen: Outline         |20        |40         |
+|Pine MDF                 |Indifferent    |:material-printer: Fill             |15        |100        |
+|Balsa                    |1.5mm          |:fontawesome-solid-scissors: Cut    |40        |60-65      |
+|Balsa                    |Indifferent    |:material-draw-pen: Outline         |15        |40         |
+|Balsa                    |Indifferent    |:material-printer: Fill             |15        |100        |
+|Leather Paper            |Indifferent    |:material-draw-pen: Outline         |15        |40         |
+|Leather Paper            |Indifferent    |:material-printer: Fill             |10        |100        |
+|Holler Cardboard         |1.8mm          |:fontawesome-solid-scissors: Cut    |100       |12         |
+|Holler Cardboard         |2mm            |:fontawesome-solid-scissors: Cut    |100       |10         |
+|Holler Cardboard         |3mm            |:fontawesome-solid-scissors: Cut    |100       |7          |
+|Holler Cardboard         |Indifferent    |:fontawesome-solid-scissors: Crease |100       |30         |
+|Holler Cardboard         |Indifferent    |:material-draw-pen: Outline         |10        |40         |
+|Holler Cardboard         |Indifferent    |:material-printer: Fill             |10        |100        |
+|Fabric                   |Organza        |:fontawesome-solid-scissors: Cut    |12        |80         |
+|Fabric                   |Satin          |:fontawesome-solid-scissors: Cut    |8/9       |80/90      |
+|Orange Stamp Rubber      |2.2mm          |:fontawesome-solid-scissors: Cut    |100       |12         |
+|Orange Stamp Rubber      |Indifferent    |:material-printer: Fill             |80        |100        |
+|Gray Stamp Rubber        |2.2mm          |:fontawesome-solid-scissors: Cut    |100       |8          |
+|Wood Board               |Indifferent    |:material-draw-pen: Outline         |15        |50         |
+|Wood Board               |Indifferent    |:material-printer: Fill             |15        |100        |
+|Metal                    |Indifferent    |:material-printer: Fill             |100       |50-10      |
+|Painted Metal            |Indifferent    |:material-printer: Fill             |25/15     |100        |
+|Glass                    |Indifferent    |:material-printer: Fill             |10        |100        |
+|Mirror                   |Indifferent    |:material-draw-pen: Outline         |10        |100        |
+|Stanley Cup              |Indifferent    |:material-printer: Fill             |70        |150        |
+|Pencil                   |Indifferent    |:material-printer: Fill             |20        |80         |
+|Pencil                   |Indifferent    |:material-draw-pen: Outline         |10        |30         |
 
+You can download a PDF version of this table [here].
 
-Pode fazer download de uma versão desta tabela em PDF [aqui].
-
-[aqui]: https://gadgetpluskdb.github.io/Carbon-FAQS/transferencias/#tabela-de-parametros-pdf
+[here]: https://gadgetpluskdb.github.io/Carbon-FAQS/transferencias/#tabela-de-parametros-pdf

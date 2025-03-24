@@ -1,44 +1,44 @@
-# Projetos para testes de parâmetros
+# Projects for Parameter Testing
 
-Neste artigo, vamos explorar detalhadamente a utilização eficaz dos Testes de Corte, uma ferramenta indispensável para otimizar seus projetos de corte.
+In this article, we will explore in detail the effective use of Cutting Tests, an indispensable tool for optimizing your cutting projects.
 
-Esses testes são projetados para auxiliá-lo na determinação dos melhores parâmetros de corte, tais como velocidade e potência, adaptados especificamente às características do seu material.
+These tests are designed to help you determine the best cutting parameters, such as speed and power, specifically adapted to the characteristics of your material.
 
-Quer se aprofundar mais nos conceitos por trás desses parâmetros? Venha dar uma leitura neste artigo abrangente, onde explicamos tudo em detalhes.
+Want to delve deeper into the concepts behind these parameters? Come read this comprehensive article where we explain everything in detail.
 
-## Testes de corte: Uma abordagem estratégica
+## Cutting Tests: A Strategic Approach
 
-Para criar os testes, foram meticulosamente produzidos vários quadrados de 1cm x 1cm, em diferentes estratos, ajustando a relação entre a velocidade e a potência em cada um. Essa abordagem permite uma análise minuciosa para determinar a combinação ideal de parâmetros para o seu material específico.
+To create the tests, several 1cm x 1cm squares were meticulously produced in different layers, adjusting the relationship between speed and power in each one. This approach allows for a thorough analysis to determine the ideal combination of parameters for your specific material.
 
-Foram desenvolvidos três modelos distintos de testes, levando em consideração as diferentes densidades dos materiais: Leves, Médios e Rígidos.
+Three distinct test models were developed, taking into account the different densities of materials: Light, Medium, and Rigid.
 
-Para facilitar ainda mais sua jornada, pode fazer o download dos testes de corte na nossa pagina de [downloads].
+To further facilitate your journey, you can download the cutting tests from our [downloads] page.
 
 [downloads]: https://gadgetpluskdb.github.io/Carbon-FAQS/transferencias/#arquivos-para-testes-de-corte
 
-Para um entendimento mais aprofundado sobre cada um dos testes e suas aplicações específicas, aqui está uma breve explicação:
+For a deeper understanding of each test and its specific applications, here is a brief explanation:
 
 <figure markdown="span">
 
   ![](../images/testes.png){ width="1000" }
-  <figcaption>Figura 1 - Projeto corte Genérico</figcaption>
+  <figcaption>Figure 1 - Generic Cutting Project</figcaption>
 
 </figure>
 
-### Teste para materiais genérico
+### Test for Generic Materials
 
-Este modelo oferece uma ampla gama de variações de parâmetros e é especialmente eficaz para materiais de densidade média.
+This model offers a wide range of parameter variations and is especially effective for medium-density materials.
 
 <figure markdown="span">
   
   ![](../images/teste-generico.png){ width="1000" }
-  <figcaption>Figura 2 - Projeto corte Genérico</figcaption>
+  <figcaption>Figure 2 - Generic Cutting Project</figcaption>
 
 </figure>
 
-### Teste para materiais rígidos
+### Test for Rigid Materials
 
-Projetado para materiais como MDF (entre 3mm e 6mm), couro grosso (2mm), compensado (3mm) e papelão holler (3mm), este teste apresenta configurações com potências mais elevadas e velocidades mais baixas.
+Designed for materials such as MDF (between 3mm and 6mm), thick leather (2mm), plywood (3mm), and holler cardboard (3mm), this test features higher power settings and lower speeds.
 
 <figure markdown="span">
 
@@ -46,14 +46,13 @@ Projetado para materiais como MDF (entre 3mm e 6mm), couro grosso (2mm), compens
   <figcaption></figcaption>
 
   ![](../images/teste-rigido-02.png){ width="700" }
-  <figcaption>Figura 3 - Projeto corte Rígido</figcaption>
+  <figcaption>Figure 3 - Rigid Cutting Project</figcaption>
 
 </figure>
 
+### Test for Thin and Light Materials
 
-### Teste para materiais finos e leves
-
-Indicado para materiais como feltro, tecido e papel até 180 gramas, este teste é otimizado para potências mais baixas e velocidades mais altas.
+Indicated for materials such as felt, fabric, and paper up to 180 grams, this test is optimized for lower power and higher speeds.
 
 <figure markdown="span">
 
@@ -61,13 +60,13 @@ Indicado para materiais como feltro, tecido e papel até 180 gramas, este teste 
   <figcaption></figcaption>
 
   ![](../images/teste-leves-02.png){ width="700" }
-  <figcaption>Figura 4 - Projeto corte Leve</figcaption>
+  <figcaption>Figure 4 - Light Cutting Project</figcaption>
 
 </figure>
 
-### Teste para gravações
+### Test for Engravings
 
-Este teste serve para ententer qual os melhores parametros para fazer gravações nas difrentes variadades de materiais.
+This test is used to understand the best parameters for engraving on different types of materials.
 
 <figure markdown="span">
 
@@ -75,45 +74,43 @@ Este teste serve para ententer qual os melhores parametros para fazer gravaçõe
   <figcaption></figcaption>
 
   ![](../images/teste-gravacoes-02.png){ width="700" }
-  <figcaption>Figura 5 - Projeto gravações</figcaption>
+  <figcaption>Figure 5 - Engraving Project</figcaption>
 
 </figure>
 
-
-!!! tip "Dica:"
+!!! tip "Tip:"
   
-    Utilize os parâmetros obtidos com os Testes de Corte para agilizar os testes em materiais semelhantes em termos de espessura e rigidez. Por exemplo, se já realizou testes em acrílico espelhado de 2mm, os valores obtidos podem ser aplicados diretamente a outros materiais de mesma espessura, poupando tempo e material.
+    Use the parameters obtained from the Cutting Tests to speed up testing on materials similar in thickness and rigidity. For example, if you have already tested on 2mm mirrored acrylic, the values obtained can be directly applied to other materials of the same thickness, saving time and material.
 
+## How to Execute G-code Files
 
-## Como faço para executar os aquivos G-code
-
-Para usar os aquivos G-code que nós disponibilizamos tem que utilizar a janela de preview do Carbon Studio, a janela não abre se não tiver nada selecionado, por isso desenhe um quadradinho ou uma bolinha selecione-a e clique em ++"preview"++ para abrir a janela.
+To use the G-code files we provide, you need to use the preview window of Carbon Studio. The window will not open if nothing is selected, so draw a small square or circle, select it, and click ++"preview"++ to open the window.
 
 <figure markdown="span">
 
   ![](../images/abrir-gcode-01.png){ width="529" }
-  <figcaption>Figura 6 - Abrir janela preview</figcaption>
+  <figcaption>Figure 6 - Open Preview Window</figcaption>
 
 </figure>
 
-Com a janela preview aberta no canto superior direito encontra um botão de opções :fontawesome-solid-list: onde pode carregar um G-Code ou até mesmo guardar o seu proprio, veja a Figura 7 abaixo.
+With the preview window open, in the upper right corner, you will find an options button :fontawesome-solid-list: where you can load a G-Code or even save your own. See Figure 7 below.
 
 <figure markdown="span">
 
   ![](../images/abrir-gcode-02.png){ width="930" }
-  <figcaption>Figura 7 - Botão Opções</figcaption>
+  <figcaption>Figure 7 - Options Button</figcaption>
 
 </figure>
 
-Clique na opção ++"Carregar"++, encontre o seu arquivo G-Code, ele será carregado para a janela de preview e pronto agora é so clicar ++"Carbon It"++
+Click on the ++"Load"++ option, find your G-Code file, it will be loaded into the preview window, and now just click ++"Carbon It"++
 
 <figure markdown="span">
 
   ![](../images/abrir-gcode-03.png){ width="930" }
-  <figcaption>Figura 8 - G-code Carregado</figcaption>
+  <figcaption>Figure 8 - G-code Loaded</figcaption>
 
 </figure>
 
-Este artigo oferece uma visão abrangente dos testes de corte, proporcionando uma abordagem fácil e precisa na determinação dos parâmetros ideais para o seu material.
+This article provides a comprehensive overview of cutting tests, offering an easy and precise approach to determining the ideal parameters for your material.
 
-Esperamos que esta exploração detalhada seja útil em seus futuros projetos de corte e traga eficiência à sua prática.
+We hope this detailed exploration will be useful in your future cutting projects and bring efficiency to your practice.

@@ -1,26 +1,26 @@
-# A influencia da velocidade e potência para um mesmo material
+# The influence of speed and power for the same material
 
-Determinar os parâmetros ideais de corte pode ser um processo desafiador em alguns casos. Embora possamos oferecer uma estimativa aproximada da faixa de potência/velocidade para um determinado material, diversos fatores influenciam nessa definição, o que pode torná-la imprecisa.
+Determining the ideal cutting parameters can be a challenging process in some cases. Although we can offer an approximate estimate of the power/speed range for a given material, several factors influence this definition, which can make it imprecise.
 
-Neste artigo, abordaremos alguns desses fatores para fornecer uma compreensão mais abrangente, mas não deixe de conferir nosso guia prático sobre como realizar testes para obter parâmetros mais precisos para o seu trabalho específico.
+In this article, we will address some of these factors to provide a more comprehensive understanding, but be sure to check out our practical guide on how to perform tests to obtain more precise parameters for your specific work.
 
-## Composição do material:
+## Material composition:
 
-* Os materiais podem variar em sua composição, mesmo que sejam categorizados sob o mesmo nome. Por exemplo, diferentes tipos de MDF podem ser feitos de madeiras variadas, resultando em comportamentos distintos durante o corte.
-* Além disso, o processo de fabricação pode gerar variações nos produtos finais, mesmo que sejam feitos dos mesmos componentes.
+* Materials can vary in their composition, even if they are categorized under the same name. For example, different types of MDF can be made from various woods, resulting in different behaviors during cutting.
+* Additionally, the manufacturing process can generate variations in the final products, even if they are made from the same components.
 
-Portanto, é crucial entender que materiais semelhantes podem apresentar comportamentos diferentes durante o processo de corte. O parâmetro que funcionou bem para cortar um tipo específico de acrílico pode não ser ideal para outro tipo, mesmo que ambos sejam classificados como acrílicos. Por essa razão, realizar testes no material específico que será utilizado é fundamental para determinar os parâmetros ideais. Para ajudar nesse processo, oferecemos um artigo onde você pode acessar e baixar alguns arquivos para testar diferentes configurações de parâmetros. Clique [aqui] para acessar o artigo e obter esses recursos úteis.
+Therefore, it is crucial to understand that similar materials can exhibit different behaviors during the cutting process. The parameter that worked well for cutting a specific type of acrylic may not be ideal for another type, even if both are classified as acrylics. For this reason, performing tests on the specific material to be used is essential to determine the ideal parameters. To help with this process, we offer an article where you can access and download some files to test different parameter configurations. Click [here] to access the article and obtain these useful resources.
 
-[aqui]: https://gadgetpluskdb.github.io/Carbon-FAQS/truques-%26-dicas/testes-parametros/
+[here]: https://gadgetpluskdb.github.io/Carbon-FAQS/truques-%26-dicas/testes-parametros/
 
-## Ajuste de foco:
+## Focus adjustment:
 
-Um ajuste inadequado do foco também pode afetar a determinação dos parâmetros de corte. Certifique-se de que o foco esteja corretamente ajustado para garantir resultados precisos e consistentes. Consulte nosso artigo sobre como garantir o [ajuste adequado do foco] para obter mais informações.
+An improper focus adjustment can also affect the determination of cutting parameters. Make sure the focus is correctly adjusted to ensure accurate and consistent results. Check out our article on how to ensure [proper focus adjustment] for more information.
 
-[ajuste adequado do foco]: https://gadgetpluskdb.github.io/Carbon-FAQS/manual/primeiros-trabalhos/ajustar-foco/
+[proper focus adjustment]: https://gadgetpluskdb.github.io/Carbon-FAQS/manual/primeiros-trabalhos/ajustar-foco/
 
-## Limpeza dos espelhos e da lente:
+## Cleaning the mirrors and lens:
 
-A limpeza regular dos espelhos e da lente é crucial, pois a sujeira pode interferir na qualidade do feixe de laser. Se o conjunto de espelhos e a lente estiverem sujos, menos luz será refletida no material, o que pode exigir ajustes nos parâmetros para compensar. Manter a manutenção da máquina em dia é fundamental para garantir resultados consistentes e de alta qualidade. Consulte nossa lista de artigos sobre [manutenção preventiva] para obter mais informações sobre como manter sua máquina em condições ideais de funcionamento.
+Regular cleaning of the mirrors and lens is crucial, as dirt can interfere with the quality of the laser beam. If the set of mirrors and lens are dirty, less light will be reflected onto the material, which may require parameter adjustments to compensate. Keeping the machine maintenance up to date is essential to ensure consistent and high-quality results. Check out our list of articles on [preventive maintenance] for more information on how to keep your machine in optimal working condition.
 
-[manutenção preventiva]: https://gadgetpluskdb.github.io/Carbon-FAQS/manuten%C3%A7%C3%A3o/%C3%A1gua/agua-na-carbon/
+[preventive maintenance]: https://gadgetpluskdb.github.io/Carbon-FAQS/manuten%C3%A7%C3%A3o/%C3%A1gua/agua-na-carbon/

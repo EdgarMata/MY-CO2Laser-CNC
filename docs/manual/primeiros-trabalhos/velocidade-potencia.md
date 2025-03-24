@@ -1,21 +1,21 @@
-# Parametros de velocidade e potência
+# Speed and Power Parameters
 
-O processo de corte a laser requere a definição precisa de dois parâmetros fundamentais: velocidade e potência. Vamos explorar mais detalhadamente o significado desses fatores e aprender como ajustá-los para otimizar os resultados.
+The laser cutting process requires the precise definition of two fundamental parameters: speed and power. Let's explore in more detail the meaning of these factors and learn how to adjust them to optimize results.
 
-## Entendendo os parâmetros
+## Understanding the parameters
 
-### Velocidade:
+### Speed:
 
-  Refere-se à rapidez com que o feixe do laser se desloca pela área de trabalho, determinando a eficiência do corte ou gravação.
-  Analogia com o fogo: Quanto mais tempo o fogo permanecer em um mesmo ponto (velocidade mais lenta), maior será a profundidade da queima no material.
+  Refers to how fast the laser beam moves across the work area, determining the efficiency of cutting or engraving.
+  Analogy with fire: The longer the fire stays in one spot (slower speed), the deeper the burn in the material.
 
-### Potência:
+### Power:
 
-Indica a intensidade da energia emitida pelo laser, influenciando diretamente na capacidade de corte ou gravação.
-Analogia com o fogo: Uma potência mais elevada se assemelha a um fogo mais intenso, resultando em uma ação de corte ou gravação mais pronunciada.
+Indicates the intensity of the energy emitted by the laser, directly influencing the cutting or engraving capability.
+Analogy with fire: Higher power is similar to a more intense fire, resulting in a more pronounced cutting or engraving action.
 
-A combinação adequada desses parâmetros (velocidade e potência) é crucial para alcançar o equilíbrio entre a eficácia do corte e a qualidade do acabamento.
-A busca esse ponto de equilíbrio é essencial para obter resultados consistentes e satisfatórios.
+The proper combination of these parameters (speed and power) is crucial to achieving a balance between cutting efficiency and finish quality.
+Finding this balance is essential to achieving consistent and satisfactory results.
 
 <figure markdown="span">
 
@@ -27,35 +27,35 @@ A busca esse ponto de equilíbrio é essencial para obter resultados consistente
 
 </figure>
 
-<p style="text-align: center;"><em>Figura 1 - Relação entre velocidade e potência</em></p>
+<p style="text-align: center;"><em>Figure 1 - Relationship between speed and power</em></p>
 
 
-* Quanto maior a velocidade e menor a potência, menor será a profundidade do corte ou gravação.
-* Quanto menor velocidade e uma maior potência resultarão em uma ação mais profunda.
+* The higher the speed and the lower the power, the shallower the cut or engraving.
+* Lower speed and higher power will result in a deeper action.
 
-## Configuração dos parâmetros no Carbon Studio
+## Setting parameters in Carbon Studio
 
-Os parâmetros são ajustados de acordo com a camada selecionada no software, disponível na interface à direita da tela. A precisão na definição desses parâmetros é essencial para garantir o sucesso do processo de corte ou gravação.
+The parameters are adjusted according to the layer selected in the software, available on the right side of the screen. Precision in defining these parameters is essential to ensure the success of the cutting or engraving process.
 
 <figure markdown="span">
 
   ![FrenteMaq](../images/ImgManual_22.png){ width="431" }
-  <figcaption>Figura 2 - Definição de parâmetros</figcaption>
+  <figcaption>Figure 2 - Parameter definition</figcaption>
 
 </figure>
 
-## Encontrando os melhores parâmetros para o seu material
+## Finding the best parameters for your material
 
-### Identificar os parâmetros ideais requer uma abordagem prática e experimental.
+### Identifying the ideal parameters requires a practical and experimental approach.
 
-Devido à variedade de materiais e suas características específicas, é importante realizar [testes para determinar as configurações mais adequadas].
+Due to the variety of materials and their specific characteristics, it is important to perform [tests to determine the most suitable settings].
 
-[testes para determinar as configurações mais adequadas]: https://gadgetpluskdb.github.io/Carbon-FAQS/truques-%26-dicas/testes-parametros/
+[tests to determine the most suitable settings]: https://gadgetpluskdb.github.io/Carbon-FAQS/truques-%26-dicas/testes-parametros/
 
-### Para facilitar esse processo, desenvolvemos gabaritos de corte!
+### To facilitate this process, we have developed cutting templates!
 
-Esses gabaritos permitem testar diversas combinações de parâmetros, ajudando a identificar a configuração ótima para cada tipo de material. Além disso, [disponibilizamos] alguns arquivos no Carbon Studio para simplificar esse processo de testes e ajustes.
+These templates allow you to test various parameter combinations, helping to identify the optimal setting for each type of material. Additionally, we [provide] some files in Carbon Studio to simplify this testing and adjustment process.
 
-[disponibilizamos]: https://gadgetpluskdb.github.io/Carbon-FAQS/transferencias/#arquivos-para-testes-de-parametros
+[provide]: https://gadgetpluskdb.github.io/Carbon-FAQS/transferencias/#arquivos-para-testes-de-parametros
 
-Neste artigo aprofundamos nosso entendimento sobre os parâmetros de velocidade e potência, exploramos como configurá-los no Carbon Studio e reconhecemos a importância dos testes práticos para determinar os ajustes ideais. Essas informações são fundamentais para garantir resultados consistentes e de alta qualidade no processo de corte a laser.
+In this article, we deepened our understanding of speed and power parameters, explored how to configure them in Carbon Studio, and recognized the importance of practical tests to determine the ideal adjustments. This information is fundamental to ensuring consistent and high-quality results in the laser cutting process.

@@ -1,52 +1,52 @@
-# Por que é necessário o aterramento nas tomadas?
+# Why is grounding necessary in outlets?
 
-Certamente, já deves ter ouvido falar acerca do conceito de aterramento em tomadas, certo?
-De forma simples, o sistema de aterramento implica uma viga cravada no solo, conectada a um fio, geralmente nas cores verde e amarela, que percorre toda a casa, como exemplificado na imagem abaixo:
+Certainly, you must have heard about the concept of grounding in outlets, right?
+Simply put, the grounding system involves a rod driven into the ground, connected to a wire, usually in green and yellow colors, that runs throughout the house, as exemplified in the image below:
 
 <figure markdown="span">
 
   ![](../images/barra_aterramento.png){ width="500" }
-  <figcaption>Figura 1: Aterramento da tomada</figcaption>
+  <figcaption>Figure 1: Outlet grounding</figcaption>
 
 </figure>
 
-As tomadas de 3 pinos geralmente sinalizam a presença de aterramento, mas é crucial confirmar se a rede elétrica do prédio ou casa está efetivamente aterrada. Pode ocorrer de não haver nenhum fio conectado a este pino, resultando na falta de aterramento da tomada.
+Three-pin outlets generally indicate the presence of grounding, but it is crucial to confirm if the building or house's electrical network is effectively grounded. It may happen that there is no wire connected to this pin, resulting in the lack of grounding in the outlet.
 
-## Então, por que é tão relevante o aterramento?
+## So, why is grounding so important?
 
-O aterramento da tomada tem como principal objetivo reduzir as variações de tensão na rede elétrica, eliminar fugas de energia e proteger os utilizadores contra possíveis choques elétricos. Ele previne que ocorram choques ao utilizar eletrodomésticos em casa, por exemplo.
+The main objective of grounding the outlet is to reduce voltage variations in the electrical network, eliminate energy leaks, and protect users against possible electric shocks. It prevents shocks when using household appliances, for example.
 
-No caso da tua Carbon, o aterramento não é apenas uma questão de segurança, mas também influencia o funcionamento da máquina. O laser CO2 requer uma alta tensão (20.000 volts), gerando um campo eletromagnético que induz uma corrente. Esta corrente deve ser direcionada para o aterramento; sem ele, pode acabar indo para a placa de controlo da máquina, prejudicando o correto funcionamento da tua Carbon ou, até mesmo, danificando componentes.
+In the case of your Carbon, grounding is not just a safety issue but also influences the machine's operation. The CO2 laser requires high voltage (20,000 volts), generating an electromagnetic field that induces a current. This current must be directed to the ground; without it, it may end up going to the machine's control board, impairing the proper functioning of your Carbon or even damaging components.
 
-## Como posso verificar se a minha tomada possui aterramento?
+## How can I check if my outlet has grounding?
 
-!!! warning "Verificar"
+!!! warning "Check"
 
-    **Visualmente:** Podes confirmar se a tomada possui 3 fios conectados (apesar de isso não garante totalmente o aterramento, se houver apenas dois fios, confirma que não possui).
+    **Visually:** You can confirm if the outlet has 3 connected wires (although this does not fully guarantee grounding, if there are only two wires, it confirms that it does not have grounding).
 
-!!! warning "Cuidado"
+!!! warning "Caution"
 
-    **Verificar** os fios dentro da tomada requer muita atenção para evitar choques elétricos. Recomendamos que um eletricista realize esta verificação, com cuidados adicionais, como desligar o quadro de energia e não tocar nos fios.
+    **Checking** the wires inside the outlet requires a lot of attention to avoid electric shocks. We recommend that an electrician perform this check, with additional precautions such as turning off the power panel and not touching the wires.
 
 <figure markdown="span">
 
   ![](../images/tomada_terra.webp){ width="500" }
-  <figcaption>Figura 3: Exemplo de tomada com três aterramento</figcaption>
+  <figcaption>Figure 3: Example of an outlet with three grounding</figcaption>
   
 </figure>
 
-## Quais são os sinais de que a minha tomada não possui aterramento?
+## What are the signs that my outlet does not have grounding?
 
-A ausência de aterramento na rede elétrica pode resultar em alguns problemas ao usar a tua Gadget Carbon, sendo os principais:
+The absence of grounding in the electrical network can result in some problems when using your Gadget Carbon, the main ones being:
 
-1.	Leve choque ao tocar na carcaça da máquina.
-2.	Perda de conexão ou interrupção do trabalho sem aviso no Carbon Studio.
-3.	Aparecimento de linhas aleatórias durante um trabalho, não presentes no arquivo ou no preview.
-4.	Perda de passos devido à influência de alta tensão nos motores ou na placa controladora.
-5.	Danos a componentes eletrônicos devido a fugas e variações de energia.
+1.	Light shock when touching the machine's casing.
+2.	Loss of connection or interruption of work without warning in Carbon Studio.
+3.	Appearance of random lines during a job, not present in the file or preview.
+4.	Loss of steps due to high voltage influence on motors or the control board.
+5.	Damage to electronic components due to leaks and energy variations.
 
-Outro ponto importante é o uso de extensões de energia, muitas das quais possuem o terceiro pino, destinado ao aterramento, mas podem não ter um terceiro fio em sua fiação interna. Sempre que possível, recomenda-se o uso de filtros de linha com aterramento ou conectar o cabo de energia diretamente na tomada da tua Carbon.
+Another important point is the use of power extensions, many of which have the third pin intended for grounding but may not have a third wire in their internal wiring. Whenever possible, it is recommended to use power strips with grounding or connect the power cable directly to your Carbon's outlet.
 
-!!! warning "Importante"
+!!! warning "Important"
 
-    De acordo com os nossos termos de garantia, a utilização da máquina em locais sem aterramento resultará na perda total da garantia.
+    According to our warranty terms, using the machine in places without grounding will result in the total loss of the warranty.

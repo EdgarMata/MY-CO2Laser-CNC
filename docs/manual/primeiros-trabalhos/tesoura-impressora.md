@@ -1,4 +1,4 @@
-# Difrenças entre tesoura, pincel e impressora
+# Differences between scissors, brush, and printer
 
 <figure markdown="span">
   
@@ -10,79 +10,79 @@
   
 </figure>
 
-Neste artigo, vamos abordar as funções de corte, contorno e preenchimento disponíveis no gestor de camadas do seu Carbon Studio. É crucial entender essas distinções para realizar seus trabalhos da melhor maneira possível.
+In this article, we will discuss the cutting, contouring, and filling functions available in the layer manager of your Carbon Studio. It is crucial to understand these distinctions to perform your work in the best possible way.
 
-O primeiro passo é visualizar o gestor de camadas, localizado no lado direito do Carbon Studio, como mostrado na Figura 1 abaixo:
-
-<figure markdown="span">
-
-  ![](../images/image-placeholder.png){ width="450" }
-  <figcaption>Figura 1 - Gestor de camadas</figcaption>
-
-</figure>
-
-Agora, vamos observar mais de perto o gestor de camadas para explorar seus itens:
+The first step is to visualize the layer manager, located on the right side of Carbon Studio, as shown in Figure 1 below:
 
 <figure markdown="span">
 
   ![](../images/image-placeholder.png){ width="450" }
-  <figcaption>Figura 2 - Gestor de camadas</figcaption>
+  <figcaption>Figure 1 - Layer manager</figcaption>
 
 </figure>
 
-## Vamos iniciar com o item da impressora:
+Now, let's take a closer look at the layer manager to explore its items:
 
 <figure markdown="span">
 
   ![](../images/image-placeholder.png){ width="450" }
-  <figcaption>Figura 3 - Gestor de camadas</figcaption>
+  <figcaption>Figure 2 - Layer manager</figcaption>
 
 </figure>
 
-Sempre que desejar trabalhar com preenchimento, é necessário selecionar o item da impressora. O preenchimento funciona como uma impressora, executando várias linhas horizontais para marcar o material com o desenho desejado. Para alterar os ícones, basta clicar sobre eles.
+## Let's start with the printer item:
 
 <figure markdown="span">
 
   ![](../images/image-placeholder.png){ width="450" }
-  <figcaption>Figura 4 - Preenchimento</figcaption>
+  <figcaption>Figure 3 - Layer manager</figcaption>
 
 </figure>
 
-## Em seguida, temos o item do pincel/caneta:
+Whenever you want to work with filling, you need to select the printer item. Filling works like a printer, executing several horizontal lines to mark the material with the desired design. To change the icons, just click on them.
 
 <figure markdown="span">
 
   ![](../images/image-placeholder.png){ width="450" }
-  <figcaption>Figura 5 - Gestor de camadas</figcaption>
+  <figcaption>Figure 4 - Filling</figcaption>
 
 </figure>
 
-Se o seu objetivo é trabalhar com contorno, você deve selecionar o item do pincel. O contorno representa o desenho do contorno do seu vetor, seguindo o mesmo caminho do corte do laser. No entanto, a potência do contorno é menor, apenas o suficiente para desenhar no material.
+## Next, we have the brush/pen item:
 
 <figure markdown="span">
 
   ![](../images/image-placeholder.png){ width="450" }
-  <figcaption>Figura 6 - Contorno</figcaption>
+  <figcaption>Figure 5 - Layer manager</figcaption>
 
 </figure>
 
-## Por fim, temos o item da tesoura:
+If your goal is to work with contouring, you should select the brush item. Contouring represents the outline of your vector, following the same path as the laser cut. However, the contouring power is lower, just enough to draw on the material.
 
 <figure markdown="span">
 
   ![](../images/image-placeholder.png){ width="450" }
-  <figcaption>Figura 7 - Gestor de camadas</figcaption>
+  <figcaption>Figure 6 - Contouring</figcaption>
 
 </figure>
 
-Sempre que desejar trabalhar com cortes, selecione o item da tesoura. O corte realizará o corte do material com base nas linhas do seu desenho.
+## Finally, we have the scissors item:
 
 <figure markdown="span">
 
   ![](../images/image-placeholder.png){ width="450" }
-  <figcaption>Figura 8 - Corte</figcaption>
+  <figcaption>Figure 7 - Layer manager</figcaption>
 
 </figure>
 
-Conseguiu diferenciar as funções de corte, contorno e preenchimento? 
-É simples, não é? Agora, mãos à obra!
+Whenever you want to work with cuts, select the scissors item. The cut will perform the material cut based on the lines of your design.
+
+<figure markdown="span">
+
+  ![](../images/image-placeholder.png){ width="450" }
+  <figcaption>Figure 8 - Cutting</figcaption>
+
+</figure>
+
+Did you manage to differentiate the cutting, contouring, and filling functions? 
+It's simple, isn't it? Now, let's get to work!
