@@ -80,13 +80,13 @@ Contact us directly, we are here to help.
 </head>
 
 <div style="display: inline-block; margin-right: 80px;">
-    <a href="https://api.whatsapp.com/send?1=pt_pt&phone=351939039730" class="md-button" style="width: 200px; height: 54px;">
+    <a href="https://api.whatsapp.com/send?1=pt_pt&phone=351924244819" class="md-button" style="width: 200px; height: 54px;">
         Whatsapp <i class="fab fa-whatsapp" style="vertical-align: middle;"></i>
     </a>
 </div>
 
 <div style="display: inline-block;">
-    <a href="mailto:contacto@gadgetplus.pt" class="md-button" style="width: 200px; height: 54px;">
+    <a href="mailto:support@my-machines.net" class="md-button" style="width: 200px; height: 54px;">
         E-mail <i class="fas fa-paper-plane" style="vertical-align: middle;"></i>
     </a>
 </div>

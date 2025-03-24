@@ -1,8 +1,8 @@
 # Project information
-site_name: MY-CO2Laser-CNC
-site_url: "https://my-machines.net/My-CO2Laser-CNC/"
+site_name: MY-CO2Laser
+site_url: "https://my-machines.net/my-co2Laser/"
 site_author: "Edgar Mata"
-site_description: "Centro de conhecimento My Machines"
+site_description: "My Machines knowledge base"
 
 # Repository
 repo_name: "MY-CO2Laser-CNC"
@@ -14,9 +14,11 @@ copyright: |
 
 # Configuration
 theme:
+  name: material
+  language: pt
   logo: assets/mylogo.svg
   favicon: images/f-icon.png
-  name: material
+  custom_dir: overrides
   features:
     - navigation.tabs
 #   - navigation.sections
@@ -29,21 +31,22 @@ theme:
     - search.highlight
     - content.tabs.link
     - content.code.annotate
-    - content.code.copy        
-  language: pt
+    - content.code.copy
+    - header.autohide
+  
   palette:
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
       toggle:
         icon: material/link
-        name: Preferencias de sistema
+        name: System Preferences
 
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
       toggle:
         icon: material/toggle-switch-off-outline
-        name: Mudar para modo escuro
+        name: Switch to dark mode
       primary: light blue
       accent: indigo
 
@@ -52,7 +55,7 @@ theme:
       scheme: slate
       toggle:
         icon: material/toggle-switch
-        name: Mudar para modo Claro
+        name: Switch to Light mode
       primary: light blue
       accent: indigo
 
@@ -83,21 +86,21 @@ extra:
       link: mailto:contacto@gadgetplus.pt
   analytics:
     provider: google
-    property: G-XXXXXXXXX
+    property: G-9TXDKKF1D6
     feedback:
-      title: Esta pagina ajudou?
+      title: Did this page help?
       ratings:
         - icon: material/thumb-up-outline
-          name: Esta pagina ajudou
+          name: Did this page help
           data: 1
           note: >-
-            Obrigado pelo feedback!
+            Thanks for the feedback!
         - icon: material/thumb-down-outline
-          name: Esta pagina pode melhorar
+          name: This page can be improved
           data: 0
           note: >- 
-            Obrigado pelo feedback! Ajuda-nos a melhorar esta pagina
-            usando o nosso <a href="https://docs.google.com/forms/d/e/1FAIpQLSf_kuzfD_Tbez4b-jqxr0dPAsu4QGP72imTuG0AKUAi-gQKLg/viewform?usp=pp_url&entry.756152555={url}" target="_blank" rel="noopener">formulario de feedback</a>.     
+            Thanks for the feedback! Help us improve this page
+            using our <a href="https://docs.google.com/forms/d/e/1FAIpQLSf_kuzfD_Tbez4b-jqxr0dPAsu4QGP72imTuG0AKUAi-gQKLg/viewform?usp=pp_url&entry.756152555={url}" target="_blank" rel="noopener">feedback form</a>.     
 
 markdown_extensions:
   - pymdownx.highlight:
