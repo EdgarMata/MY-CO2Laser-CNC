@@ -18,7 +18,7 @@ theme:
   language: pt
   logo: assets/mylogo.svg
   favicon: images/f-icon.png
-  custom_dir: overrides
+  #custom_dir: overrides
   features:
     - navigation.tabs
 #   - navigation.sections
