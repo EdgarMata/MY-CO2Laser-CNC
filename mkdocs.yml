@@ -15,7 +15,7 @@ copyright: |
 # Configuration
 theme:
   logo: assets/mylogo.svg
-  favicon: images/favicon.png
+  favicon: images/f-icon.png
   name: material
   features:
     - navigation.tabs
@@ -119,4 +119,96 @@ markdown_extensions:
   - pymdownx.keys
   - toc:
       permalink: true
-      title: Tabela de Conteudo
+      title: Table of Contents
+
+nav:
+  - Home: index.md
+  - Manual:
+    - manual/index.md    
+    - Primeiros Passos:
+      - Instalar Carbon: manual/primeiros-passos/instalar-carbon.md
+      - Encher Reservatório: manual/primeiros-passos/encher-reservatório.md
+      - Remover Suportes: manual/primeiros-passos/remover-suportes.md
+      - Colmeia: manual/primeiros-passos/colmeia.md
+      - Eixo Rotativo: manual/primeiros-passos/eixo-rotativo.md
+      - Camera 4K: manual/primeiros-passos/camera-4k.md
+    - Primeiros Trabalhos:
+      - Materiais: manual/primeiros-trabalhos/material.md
+      - Ajustar Foco: manual/primeiros-trabalhos/ajustar-foco.md
+      - Velocidade e Potencia: manual/primeiros-trabalhos/velocidade-potencia.md
+      - Tesoura Impressora: manual/primeiros-trabalhos/tesoura-impressora.md
+      - Primeiro Corte: manual/primeiros-trabalhos/primeiro-corte.md
+      - Primeira Gravação: manual/primeiros-trabalhos/primeira-gravação.md
+  - Manutenção: 
+    - Água:
+      - Água na Carbon: manutenção/água/agua-na-carbon.md
+      - Trocar Água: manutenção/água/trocar-agua.md
+      - Tenho Bolhas: manutenção/água/tenho-bolhas.md
+    - Limpeza:
+      - Frequencia da limpeza: manutenção/limpeza/frequencia-limpeza.md
+      - Limpeza dos espelhos: manutenção/limpeza/limpeza-espelhos.md
+      - Limpeza do Exaustor: manutenção/limpeza/limpeza-exaustor.md
+      - Limpeza do Interior: manutenção/limpeza/limpeza-interior.md
+      - Limpeza da lente: manutenção/limpeza/limpeza-lente.md
+      - Limpeza da lendo do tubo: manutenção/limpeza/limpeza-lente-tubo.md
+  - Segurança:
+    - Instruções de Segurança: segurança/instrucões-seguranca.md
+    - Instruções de Tomadas: segurança/aterramento-tomadas.md
+    - Cuidados com Materiais: 
+      - Corte ABS: segurança/cuidados-materiais/corte-ABS.md
+      - Corte PVC: segurança/cuidados-materiais/corte-PVC.md
+  - Studio:
+    - Instalar Software: studio/instalar-software.md
+    - Conexão: studio/conexão-computador.md
+    - Atualização Software: studio/altualização-software.md
+    - Truques & Dicas: studio/truques-&-dicas.md
+    - Primeiros Passos:
+      - Camadas: studio/primeiros-passos/camadas.md
+      - Janela Inicial: studio/primeiros-passos/janela-inicial.md
+      - Comandos Conexão: studio/primeiros-passos/comando-conexão.md
+      - Comandos Movimento: studio/primeiros-passos/comando-movimento.md
+      - Função Preview: studio/primeiros-passos/função-preview.md
+      - Icons Simbólicos: studio/primeiros-passos/icons-simbólicos.md
+    - Tutorial Basico:
+      - Principios Basicos: studio/tutorial-basico/principios-basicos.md
+      - Formas: studio/tutorial-basico/formas.md
+    - Tutorial Intermedio:
+      - Vetorização: studio/tutorial-intermedio/vetorização.md
+      - Vetorizar Pixeis: studio/tutorial-intermedio/vetorizar-pixeis.md
+    - Tutorial Avançado:
+      - Desenho Livre: studio/tutorial-avançado/desenho-livre.md
+      - Caligrafia: studio/tutorial-avançado/caligrafia.md
+      - Interpolação: studio/tutorial-avançado/interpolação.md
+  - Troubleshooting:
+    - Corte Diferente:
+      - Ajustar Correias: troubleshooting/corte-diferente/ajustar-correias.md
+      - Desenho Errado: troubleshooting/corte-diferente/desenho-errado.md
+      - Ajustar Foco: troubleshooting/corte-diferente/ajustar-foco.md      
+    - Não Corta:
+      - Como Funciona o tubo: troubleshooting/não-corta/como-funciona-tubo.md
+      - Não corta o material: troubleshooting/não-corta/não-corta.md
+      - Não Sai Laser: troubleshooting/não-corta/não-sai-laser.md
+      - Laser Fraco: troubleshooting/não-corta/laser-fraco.md
+      - Verificar Espelhos: troubleshooting/não-corta/verificar-espelhos.md
+      - Alinhar Espelhos: troubleshooting/não-corta/alinhar-espelhos.md
+      - Fogo no Corte: troubleshooting/não-corta/fogo-no-corte.md
+    - Não Conecta:
+      - Cabo USB: troubleshooting/não-conecta/cabo-usb.md
+      - Cartão SD: troubleshooting/não-conecta/cartão-sd.md
+      - Wi-Fi Carbon: troubleshooting/não-conecta/wifi-carbon.md
+      - Wi-Fi Rede Local: troubleshooting/não-conecta/wifi-local.md
+      - Verificar Placa: troubleshooting/não-conecta/verificar-placa.md
+    - Sensores:
+      - Sensor de nivel água: troubleshooting/sensores/sensor-nivel-agua.md
+      - Sensor de porta: troubleshooting/sensores/sensor-porta.md
+      - Sensor de Temperatura: troubleshooting/sensores/sensor-temperatura.md
+    - Software:
+      - Barra não Abre: troubleshooting/software/barra-não-abre.md
+      - Sem Preview: troubleshooting/software/sem-preview.md
+  - Downloads:
+    - transferencias/index.md
+  - Truques & Dicas: 
+    - Vetorizar Imagens: truques-&-dicas/vetorizar-imagem.md
+    - Gravar fotografias: truques-&-dicas/gravar-fotos.md
+    - Importar: truques-&-dicas/importar.md
+    - Exportar Silhouette: truques-&-dicas/exportar-silhouette.md
