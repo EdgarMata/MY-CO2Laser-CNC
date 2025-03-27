@@ -1,4 +1,4 @@
-# O meu desenho não saiu como eu esperava
+# Ajustar foco do laser
 
 <figure markdown="span">
   

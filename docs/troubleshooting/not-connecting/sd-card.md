@@ -1,4 +1,4 @@
-# A minhã maquina não está a conectar por USB
+# Cartão SD
 
 <figure markdown="span">
   
