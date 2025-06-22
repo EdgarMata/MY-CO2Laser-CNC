@@ -1,0 +1,237 @@
+# Project information
+site_name: MY-CO2Laser
+site_url: "https://my-machines.net/MY-CO2Laser/"
+site_author: "Edgar Mata"
+site_description: "My Machines knowledge base"
+
+# Repository
+repo_name: "MY-CO2Laser-CNC"
+repo_url: "https://github.com/EdgarMata/MY-CO2Laser-CNC"
+
+# Copyright
+copyright: |
+  &copy; 2024 <a href="https://my-machines.net/" target="_blank" rel="noopener">My Machines</a>
+
+# Configuration
+theme:
+  name: material
+  language: pt
+  logo: assets/mylogo.svg
+  favicon: images/f-icon.png
+  #custom_dir: overrides
+  features:
+    - navigation.tabs
+#   - navigation.sections
+    - navigation.path
+    - navigation.expand
+    - navigation.footer 
+    - toc.follow  
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotate
+    - content.code.copy
+    - header.autohide  
+  palette:
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/link
+        name: System Preferences
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+      primary: light blue
+      accent: indigo
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to Light mode
+      primary: light blue
+      accent: indigo
+
+  icon:
+    admonition:
+      note: octicons/tag-16
+      abstract: octicons/checklist-16
+      info: octicons/info-16
+      tip: octicons/squirrel-16
+      success: octicons/check-16
+      question: octicons/question-16
+      warning: octicons/alert-16
+      failure: octicons/x-circle-16
+      danger: octicons/zap-16
+      bug: octicons/bug-16
+      example: octicons/beaker-16
+      quote: octicons/quote-16     
+
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/EdgarMata
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/profile.php?id=61550788541239
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/gadgetplusoficial/
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:contacto@gadgetplus.pt
+  analytics:
+    provider: google
+    property: G-B2Y6R89EJ9
+    feedback:
+      title: Did this page help?
+      ratings:
+        - icon: material/thumb-up-outline
+          name: Did this page help
+          data: 1
+          note: >-
+            Thanks for the feedback!
+        - icon: material/thumb-down-outline
+          name: This page can be improved
+          data: 0
+          note: >- 
+            Thanks for the feedback! Help us improve this page
+            using our <a href="https://docs.google.com/forms/d/e/1FAIpQLSf_kuzfD_Tbez4b-jqxr0dPAsu4QGP72imTuG0AKUAi-gQKLg/viewform?usp=pp_url&entry.756152555={url}" target="_blank" rel="noopener">feedback form</a>.     
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - admonition
+  - pymdownx.superfences
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - pymdownx.details  
+  - pymdownx.mark
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.keys
+  - toc:
+      permalink: true
+      title: Table of Contents
+
+nav:
+  - Home: index.md
+  - Manual:
+    - manual/index.md    
+    - Getting Started:
+      - Install Carbon: manual/getting-started/install-carbon.md
+      - Fill Reservoir: manual/getting-started/fill-reservoir.md
+      - Remove Supports: manual/getting-started/remove-supports.md
+      - Honeycomb: manual/getting-started/honeycomb.md
+      - Rotary Axis: manual/getting-started/rotary-axis.md
+      - 4K Camera: manual/getting-started/4k-camera.md
+    - First Projects:
+      - Materials: manual/first-projects/materials.md
+      - Adjust Focus: manual/first-projects/adjust-focus.md
+      - Speed and Power: manual/first-projects/speed-power.md
+      - Printer Scissors: manual/first-projects/printer-scissors.md
+      - First Cut: manual/first-projects/first-cut.md
+      - First Engraving: manual/first-projects/first-engraving.md
+  - Maintenance: 
+    - Water:
+      - Water in Carbon: maintenance/water/water-in-carbon.md
+      - Change Water: maintenance/water/change-water.md
+      - I Have Bubbles: maintenance/water/i-have-bubbles.md
+    - Cleaning:
+      - Cleaning Frequency: maintenance/cleaning/cleaning-frequency.md
+      - Mirror Cleaning: maintenance/cleaning/mirror-cleaning.md
+      - Exhaust Cleaning: maintenance/cleaning/exhaust-cleaning.md
+      - Interior Cleaning: maintenance/cleaning/interior-cleaning.md
+      - Lens Cleaning: maintenance/cleaning/lens-cleaning.md
+      - Tube Lens Cleaning: maintenance/cleaning/tube-lens-cleaning.md
+  - Safety:
+    - Safety Instructions: safety/safety-instructions.md
+    - Socket Instructions: safety/socket-instructions.md
+    - Material Precautions: 
+      - ABS Cutting: safety/material-precautions/abs-cutting.md
+      - PVC Cutting: safety/material-precautions/pvc-cutting.md
+  - Studio:
+    - Install Software: studio/install-software.md
+    - Connection: studio/connection.md
+    - Software Update: studio/software-update.md
+    - Tips & Tricks: studio/tips-tricks.md
+    - 4K Camera: studio/4k-camera.md
+    - Getting Started:
+      - Layers: studio/getting-started/layers.md
+      - Initial Window: studio/getting-started/initial-window.md
+      - Connection Commands: studio/getting-started/connection-commands.md
+      - Movement Commands: studio/getting-started/movement-commands.md
+      - Preview Function: studio/getting-started/preview-function.md
+      - Symbolic Icons: studio/getting-started/symbolic-icons.md
+      - Camera use: studio/getting-started/camera-use.md
+    - Basic Tutorial:
+      - Basic Principles: studio/basic-tutorial/basic-principles.md
+      - Shapes: studio/basic-tutorial/shapes.md
+    - Intermediate Tutorial:
+      - Vectorization: studio/intermediate-tutorial/vectorization.md
+      - Vectorize Pixels: studio/intermediate-tutorial/vectorize-pixels.md
+    - Advanced Tutorial:
+      - Freehand Drawing: studio/advanced-tutorial/freehand-drawing.md
+      - Calligraphy: studio/advanced-tutorial/calligraphy.md
+      - Interpolation: studio/advanced-tutorial/interpolation.md
+  - Troubleshooting:
+    - Different Cut:
+      - Adjust Belts: troubleshooting/different-cut/adjust-belts.md
+      - Wrong Drawing: troubleshooting/different-cut/wrong-drawing.md
+      - Adjust Focus: troubleshooting/different-cut/adjust-focus.md      
+    - Not Cutting:
+      - How the Tube Works: troubleshooting/not-cutting/how-tube-works.md
+      - Not Cutting Material: troubleshooting/not-cutting/not-cutting-material.md
+      - No Laser: troubleshooting/not-cutting/no-laser.md
+      - Weak Laser: troubleshooting/not-cutting/weak-laser.md
+      - Check Mirrors: troubleshooting/not-cutting/check-mirrors.md
+      - Align Mirrors: troubleshooting/not-cutting/align-mirrors.md
+      - Fire During Cut: troubleshooting/not-cutting/fire-during-cut.md
+    - Not Connecting:
+      - USB Cable: troubleshooting/not-connecting/usb-cable.md
+      - SD Card: troubleshooting/not-connecting/sd-card.md
+      - Carbon Wi-Fi: troubleshooting/not-connecting/carbon-wifi.md
+      - Local Network Wi-Fi: troubleshooting/not-connecting/local-network-wifi.md
+      - Check Board: troubleshooting/not-connecting/check-board.md
+    - Sensors:
+      - Water Level Sensor: troubleshooting/sensors/water-level-sensor.md
+      - Door Sensor: troubleshooting/sensors/door-sensor.md
+      - Temperature Sensor: troubleshooting/sensors/temperature-sensor.md
+    - Software:
+      - Bar Not Opening: troubleshooting/software/bar-not-opening.md
+      - No Preview: troubleshooting/software/no-preview.md
+      - Black Camera picture: troubleshooting/software/black-camera-picture.md
+  - Downloads:
+    - transfers/index.md
+  - Tips & Tricks: 
+    - Vectorize Images: tips-tricks/vectorize-images.md
+    - Engrave Photos: tips-tricks/engrave-photos.md
+    - Import: tips-tricks/import.md
+    - Export Silhouette: tips-tricks/export-silhouette.md
+    - Acabamento Queimado: tips-tricks/acabamento-queimado.md
+    - Acrilico Espelhado: tips-tricks/acrilico-espelhado.md
+    - Boas Práticas: tips-tricks/boas-praticas.md
+    - Corte MDF: tips-tricks/corte-mdf.md
+    - Dicas de Contorno: tips-tricks/dicas-contorno.md
+    - Fazer Carimbos: tips-tricks/fazer-carimbos.md
+    - Fazer Letreiro: tips-tricks/fazer-letreiro.md
+    - Gravação em Metal: tips-tricks/gravacao-metal.md
+    - Gravação Perfeita: tips-tricks/gravacao-perfeita.md
+    - Influencia da velocidade no Material: tips-tricks/influ-velocidade-material.md
+    - Linhas Tracejadas: tips-tricks/linhas-tracejadas.md
+    - Material Impresso: tips-tricks/material-impresso.md
+    - Orcamentação: tips-tricks/orcamentacao.md
+    - Otimizar Tempo: tips-tricks/otimizar-tempo.md
+    - Spotifiy Code: tips-tricks/spotifiy-code.md
+    - Tabela de Parametros: tips-tricks/tabela-parametros.md
+    - Teste de Parametros: tips-tricks/teste-parametros.md
+    

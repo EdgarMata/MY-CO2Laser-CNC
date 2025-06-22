@@ -1,0 +1,39 @@
+/* extra.css */
+.md-typeset__table {
+    width: 100%;
+    table-layout: fixed !important;
+  }
+  
+.md-typeset__table th,
+.md-typeset__table td {
+    width: auto !important;
+    word-wrap: break-word;
+    white-space: normal;
+}
+
+.md-banner {
+  background-color: #ffcc00 !important;
+  color: #000 !important;
+  align-items: flex stretch;
+  height: 40px;
+  /*padding: 0px 0px !important;*/
+  border-radius: 0px; /* Bordas arredondadas */
+  overflow-y: hidden;
+}
+
+.md-banner {
+  display: flex;
+  align-items: center;
+  justify-content: left;
+}
+
+.md-banner div {
+  width: 100%;
+  height: fit-content;
+}
+
+.md-banner__text {
+  background-color: #ffcc00 !important;
+  font-size: 1em; /* Tamanho da fonte */
+  text-align: left !important;
+}
