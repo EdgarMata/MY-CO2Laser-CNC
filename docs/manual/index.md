@@ -191,7 +191,7 @@ Now, to proceed with the next steps of configuring the machine, we will need to 
 1. Download Carbon Studio from our website: www.gadgetplus.pt
 2. With the program open, connect via Wifi or USB cable. See below how each type of connection works:
 
-![](../images/ImgManual_13.png){ align=left }
+![](../images/setup01.png){ align=left }
 
 After the water circulates internally through the machine hoses, check the internal reservoir again and add the remaining demineralized water.
 
@@ -245,7 +245,7 @@ The warranty is not valid in the following cases:
 
 [www.gadgetplus.pt]
 
-[www.gadgetplus.pt]: www.gadgetplus.pt
+[www.gadgetplus.pt]: https://www.gadgetplus.pt
 
 [suporte@gadgetplus.pt]
 

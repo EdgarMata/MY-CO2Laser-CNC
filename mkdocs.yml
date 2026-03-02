@@ -217,25 +217,26 @@ nav:
   - Downloads:
     - transfers/index.md
   - Tips & Tricks: 
+    - Best Practices: tips-tricks/best-practices.md
+    - Budgeting: tips-tricks/budgeting.md
+    - Burnt Finish: tips-tricks/burnt-finish.md
+    - Contour Tips: tips-tricks/contour-tips.md
+    - Cut MDF: tips-tricks/cut-mdf.md
+    - Dashed Lines: tips-tricks/dashed-lines.md
     - Vectorize Images: tips-tricks/vectorize-images.md
     - Engrave Photos: tips-tricks/engrave-photos.md
     - Import: tips-tricks/import.md
     - Export Silhouette: tips-tricks/export-silhouette.md
-    - Acabamento Queimado: tips-tricks/acabamento-queimado.md
-    - Acrilico Espelhado: tips-tricks/acrilico-espelhado.md
-    - Boas Práticas: tips-tricks/boas-praticas.md
-    - Corte MDF: tips-tricks/corte-mdf.md
-    - Dicas de Contorno: tips-tricks/dicas-contorno.md
-    - Fazer Carimbos: tips-tricks/fazer-carimbos.md
-    - Fazer Letreiro: tips-tricks/fazer-letreiro.md
-    - Gravação em Metal: tips-tricks/gravacao-metal.md
-    - Gravação Perfeita: tips-tricks/gravacao-perfeita.md
-    - Influencia da velocidade no Material: tips-tricks/influ-velocidade-material.md
-    - Linhas Tracejadas: tips-tricks/linhas-tracejadas.md
-    - Material Impresso: tips-tricks/material-impresso.md
-    - Orcamentação: tips-tricks/orcamentacao.md
-    - Otimizar Tempo: tips-tricks/otimizar-tempo.md
+    - Make Signage: tips-tricks/make-signage.md
+    - Make Stamps: tips-tricks/make-stamps.md
+    - Metal Engraving: tips-tricks/metal-engraving.md
+    - Mirrored Acrylic: tips-tricks/mirrored-acrylic.md
+    - Optimize Time: tips-tricks/optimize-time.md
+    - Parameter Table: tips-tricks/parameter-table.md
+    - Parameter Test: tips-tricks/parameter-test.md
+    - Perfect Engraving: tips-tricks/perfect-engraving.md
+    - Printed Material: tips-tricks/printed-material.md
+    - Speed and Material: tips-tricks/speed-and-material.md
     - Spotifiy Code: tips-tricks/spotifiy-code.md
-    - Tabela de Parametros: tips-tricks/tabela-parametros.md
-    - Teste de Parametros: tips-tricks/teste-parametros.md
+    
     
