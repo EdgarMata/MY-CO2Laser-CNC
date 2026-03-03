@@ -1,4 +1,4 @@
-# Como funciona um tubo laser
+# How a laser tube works
 
 <figure markdown="span">
   

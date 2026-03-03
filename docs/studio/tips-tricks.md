@@ -1,4 +1,4 @@
-# Truques e Dicas
+# Tricks and Tips
 
 <figure markdown="span">
   

@@ -1,4 +1,4 @@
-# Barra de controlw não abre
+# Control bar does not open
 
 <figure markdown="span">
   

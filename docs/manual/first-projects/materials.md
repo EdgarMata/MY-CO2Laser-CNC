@@ -2,14 +2,14 @@
 
 Here we will explore an essential step to ensure the success of our cuts:
 
-Positioning the design on the material. For this, it is crucial to understand the operation of the control panel in Carbon Studio. How about taking a look at this article from our series on [Studio]?
+Positioning the design on the material. For this, it is crucial to understand the operation of the control panel in Neon Studio. How about taking a look at this article from our series on [Studio]?
 
 Already feel comfortable operating the machine? Then let's move on to the next step!
 
 [Studio]: https://gadgetpluskdb.github.io/Carbon-FAQS/studio/primeiros-passos/comando-movimento/
 
-Adjusting the design in the Carbon Studio workspace
-Regardless of whether the design was created within Carbon Studio or imported from another software, it is necessary to position it at zero within the software.
+Adjusting the design in the Neon Studio workspace
+Regardless of whether the design was created within Neon Studio or imported from another software, it is necessary to position it at zero within the software.
 
 * Select the elements you want to cut. The position relative to the X and Y axes is indicated in the highlighted boxes in Figure 1.
 
@@ -29,9 +29,9 @@ Regardless of whether the design was created within Carbon Studio or imported fr
 
 </figure>
 
-Carbon Studio recognizes the top left corner as the starting point.
+Neon Studio recognizes the top left corner as the starting point.
 
-## Setting the starting point of the cut in Carbon
+## Setting the starting point of the cut in Neon
 
 To let the machine know where to start the cut, it is necessary to set the starting point.
 
@@ -90,7 +90,7 @@ To ensure the best use of the workspace, it is important to know the space the d
 
 </figure>
 
-## Design size vs. Carbon workspace
+## Design size vs. Neon workspace
 
 It is crucial to remember that the size of the object cannot exceed the machine's workspace, which is 600mm in length by 400mm in width. If this happens, your work will not be executed correctly and/or the laser head will start hitting the sides of the machine, emitting a noise indicating that it is forcing the motor. Therefore, always check the design size in the workspace using the "frame" feature.
 

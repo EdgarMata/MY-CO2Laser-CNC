@@ -1,4 +1,4 @@
-# Vetorização de imagens
+# Image vectorization
 
 <figure markdown="span">
   

@@ -1,4 +1,4 @@
-# Fazer um letreiro com a Carbon
+# Fazer um letreiro com a Neon
 
 <figure markdown="span">
   

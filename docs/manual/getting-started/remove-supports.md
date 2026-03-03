@@ -1,4 +1,4 @@
-# Remover suporte de proteção
+# Remove Protective Support
 
 <figure markdown="span">
   
@@ -10,17 +10,15 @@
   
 </figure>
 
-Ao receber sua Carbon, você provavelmente notou a presença de um suporte de proteção para o tubo. Esse suporte é localizado na parte traseira, nas laterais da unidade de movimento, como mostrado na imagem abaixo:
+When you receive your Neon, you probably noticed the presence of a protective support for the tube. This support is located at the back, on the sides of the movement unit, as shown in the image below:
 
 <figure markdown="span">
 
   ![](../images/image-placeholder.png){ width="450" }
-  <figcaption>Figura 1 - Suporte de proteção</figcaption>
+  <figcaption>Figure 1 - Protective support</figcaption>
 
 </figure>
 
+This support has the sole function of protecting the tube during shipping and should be removed as soon as you receive your machine. You can do this using the 2.5mm allen key that comes with your Neon.
 
-
-Essa suporte tem a única função de proteger o tubo durante o transporte e deve ser removido assim que você receber sua máquina. Você pode fazer isso utilizando a chave allen de 2,5mm que acompanha sua Carbon.
-
-Pronto! Agora você já pode prosseguir com o processo de instalação!
+Done! Now you can proceed with the installation process!

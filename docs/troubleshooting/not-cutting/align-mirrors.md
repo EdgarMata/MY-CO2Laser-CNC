@@ -1,4 +1,4 @@
-# Como fazer alinhamento dos espelhos
+# How to align mirrors
 
 <figure markdown="span">
   

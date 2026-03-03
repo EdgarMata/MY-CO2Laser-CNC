@@ -1,4 +1,4 @@
-# Rede Wi-fi Carbon
+# Neon WiFi Network
 
 <figure markdown="span">
   

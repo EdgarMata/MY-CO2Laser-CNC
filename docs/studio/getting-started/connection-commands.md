@@ -1,4 +1,4 @@
-# Usar os comandos de conexão
+# Use connection commands
 
 <figure markdown="span">
   

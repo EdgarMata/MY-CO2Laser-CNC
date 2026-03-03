@@ -1,24 +1,24 @@
-# Como instalar a sua maquina
+# How to Install Your Machine
 
-A sua Neon acabou de chegar e agora é hora de começar a instalação!
+Your Neon has just arrived and now it's time to start the installation!
 
-Para tornar esse processo mais fácil, a nossa equipa preparou um guia de instalação completo com todas as informações necessárias. Você pode fazer o download [aqui] ou encontrá-lo também na nossa página de suporte.
+To make this process easier, our team has prepared a complete installation guide with all the necessary information. You can download it [here] or find it on our support page.
 
-[aqui]: https://gadgetpluskdb.github.io/Carbon-FAQS/transferencias/#manuais
+[here]: https://gadgetpluskdb.github.io/Carbon-FAQS/transfers/#manuals
 
-Neste artigo, vamos abordar o tema de forma mais abrangente, oferecendo algumas dicas úteis.
+In this article, we will address the topic more comprehensively, offering some helpful tips.
 
-## Desembalando
-Este é o momento em que você vai desembalar a sua Carbon e descobrir todos os itens que a acompanham!
+## Unpacking
+This is the moment when you will unpack your Neon and discover all the items that come with it.
 
-Observação: Nossos produtos estão em constante melhoramento, então pode ser que alguns detalhes estejam diferentes, mas não se preocupe, aqui no artigo deixaremos tudo bem claro.
+Note: Our products are continuously being improved, so some details may vary slightly. Don’t worry — this article will make everything clear.
 
-### Dicas para o desembalamento
+### Unpacking tips
 
-É ideal desembalar a sua Carbon com a ajuda de outra pessoa, pois a máquina é pesada e requer cuidados.
-Remova apenas os lacres, preferencialmente com um alicate de corte, mas uma tesoura afiada também serve!
+It is recommended to unpack your Neon with the help of another person, as the machine is heavy and requires care.
+Remove only the packing seals, preferably with wire cutters; a sharp pair of scissors will also work.
 
-## O que vem com a sua Carbon?
+## What's included with your Neon?
 
 <figure markdown="span">
 
@@ -29,22 +29,22 @@ Remova apenas os lacres, preferencialmente com um alicate de corte, mas uma teso
   <figcaption></figcaption>
 
   ![](../images/ImgManual_06.png){ width="750" }
-  <figcaption>Figura 1 - Itens que acompanham a Carbon</figcaption>
+  <figcaption>Figure 1 - Items included with the Neon</figcaption>
 
 </figure>
 
-* Carbon: A máquina de corte a laser, a estrela principal!
-* Colmeia: Protege o fundo da máquina dos efeitos do laser.
-* Mangueira de exaustão: Permite a exaustão dos gases tóxicos gerados durante o corte para fora do ambiente.
-* Abraçadeira da mangueira: Reforça a fixação da mangueira.
-* Funil: Auxilia no processo de enchimento do reservatório de água.
-* Cabo de alimentação (220v 10A): Conecta a máquina à rede elétrica.
-* Cabo USB: Permite a conexão da sua Carbon ao computador.
-* Gabarito de foco: Auxilia no ajuste do foco do laser de acordo com o material utilizado.
-* Manual de instruções Carbon + Guia de Manutenção
+* Neon: The laser cutting machine — the main piece of equipment.
+* Honeycomb: Protects the bottom of the machine from the laser's effects.
+* Exhaust hose: Allows toxic gases produced during cutting to be vented outside.
+* Hose clamp: Secures the exhaust hose.
+* Funnel: Helps when filling the water reservoir.
+* Power cable (220V 10A): Connects the machine to mains power.
+* USB cable: Allows you to connect your Neon to a computer.
+* Focus gauge: Helps set the laser focus according to the material used.
+* Neon instruction manual + Maintenance guide
 
 
-## Escolhendo o melhor lugar para sua Carbon
+## Choosing the Best Location for Your Neon
 
 <figure markdown="span">
 
@@ -53,11 +53,11 @@ Remova apenas os lacres, preferencialmente com um alicate de corte, mas uma teso
 
 </figure>
 
-* Posicione a máquina em uma superfície firme e plana.
-* É importante escolher um local próximo a uma janela ou saída de ar.
-* Se você planeia usar sua Carbon conectada à rede Wi-Fi da sua casa, escolha um local próximo ao seu router para obter um bom sinal.
+* Place the machine on a firm, level surface.
+* Choose a location near a window or air outlet to vent fumes.
+* If you plan to connect your Neon to your home Wi‑Fi, pick a spot close to your router for a stronger signal.
 
-## Cuidando da exaustão
+## Taking Care of Exhaust
 
 <figure markdown="span">
 
@@ -66,12 +66,12 @@ Remova apenas os lacres, preferencialmente com um alicate de corte, mas uma teso
 
 </figure>
 
-* Conecte uma das extremidades da mangueira de exaustão à parte traseira da máquina.
-* Fixe-a com a abraçadeira.
-* A outra extremidade da mangueira deve ser direcionada para uma janela ou saída de ar.
-* Os gases liberados durante o corte podem ser tóxicos e prejudiciais à sua saúde, então preste atenção nesta etapa.
+* Connect one end of the exhaust hose to the back of the machine.
+* Secure it with the clamp.
+* The other end of the hose should be directed to a window or air outlet.
+* The gases released during cutting can be toxic and harmful to your health, so pay attention to this step.
 
-## Inserindo a proteção de fundo
+## Installing Bottom Protection
 
 <figure markdown="span">
 
@@ -80,13 +80,13 @@ Remova apenas os lacres, preferencialmente com um alicate de corte, mas uma teso
 
 </figure>
 
-* Abra a tampa da Carbon.
-* Remova a fita de fixação da colmeia.
-* Posicione-a no fundo da máquina, garantindo que o lado preto esteja para cima. Pode ver informação mais detalhada secção [colmeia].
+* Open the Neon lid.
+* Remove the honeycomb attachment tape.
+* Position it at the bottom of the machine, ensuring the black side faces up. You can find more detailed information in the [honeycomb] section.
 
-[colmeia]: https://gadgetpluskdb.github.io/Carbon-FAQS/manual/primeiros-passos/colmeia/
+[honeycomb]: https://gadgetpluskdb.github.io/Carbon-FAQS/manual/getting-started/honeycomb/
 
-## Conectando à rede elétrica
+## Connecting to the Power Supply
 
 <figure markdown="span">
 
@@ -95,20 +95,21 @@ Remova apenas os lacres, preferencialmente com um alicate de corte, mas uma teso
 
 </figure>
 
-* Conecte o cabo de alimentação entre a saída traseira da máquina e uma tomada comum de 10A com a tensão especificada na sua máquina 220V.
-* É essencial que a rede elétrica tenha aterramento. A Carbon pode apresentar problemas no seu funcionamento e até mesmo ter componentes danificados se for ligada a uma instalação elétrica sem aterramento. Consulte mais informações na nossa secção [segurança] "Instruções de Tomadas".
+* Connect the power cable from the machine's rear inlet to a standard 10A mains outlet with the voltage indicated on your machine (220V).
+* Proper grounding is essential. The Neon can malfunction or suffer component damage if connected to an ungrounded electrical installation. See our [safety] section "Socket Instructions" for more information.
 
-[segurança]: https://gadgetpluskdb.github.io/Carbon-FAQS/seguran%C3%A7a/aterramento-tomadas/
+[safety]: https://gadgetpluskdb.github.io/Carbon-FAQS/safety/socket-instructions/
 
-* Ligue a Carbon.
+* Power on the Neon.
 
-Dicas:
+Tips:
 
-Para verificar se o seu local de trabalho tem aterramento, entre em contato com um técnico especializado, como um eletricista.
-Redes elétricas antigas podem não ter aterramento, então certifique-se disso.
-Tomadas com apenas dois pinos não têm aterramento. Não use adaptadores na sua Carbon para esse tipo de tomada.
-Neste artigo, aprendemos como instalar todos os componentes da nossa Carbon. A próxima etapa é prepará-la para uso, enchendo o reservatório de água!
+To check whether your workspace has proper grounding, consult a qualified technician such as an electrician.
+Older electrical installations may lack grounding, so be sure to verify.
+Two‑pin outlets do not provide grounding. Do not use adapters to connect your Neon to such outlets.
 
-Não deixe de acompanhar o próximo artigo desta série: [Instalar Software].
+In this article we covered how to install all the components of your Neon. The next step is to prepare it for use by filling the water reservoir.
 
-[Instalar Software]: https://gadgetpluskdb.github.io/Carbon-FAQS/manual/primeiros-passos/instalar-software/
+Don't miss the next article in this series: [Fill Reservoir].
+
+[Fill Reservoir]: https://gadgetpluskdb.github.io/Carbon-FAQS/manual/getting-started/fill-reservoir/

@@ -1,4 +1,4 @@
-# Icons simbólicos
+# Symbolic icons
 
 <figure markdown="span">
   

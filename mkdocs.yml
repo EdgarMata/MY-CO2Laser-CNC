@@ -132,7 +132,7 @@ nav:
   - Manual:
     - manual/index.md    
     - Getting Started:
-      - Install Carbon: manual/getting-started/install-carbon.md
+      - Install Neon: manual/getting-started/install-carbon.md
       - Fill Reservoir: manual/getting-started/fill-reservoir.md
       - Remove Supports: manual/getting-started/remove-supports.md
       - Honeycomb: manual/getting-started/honeycomb.md
@@ -147,7 +147,7 @@ nav:
       - First Engraving: manual/first-projects/first-engraving.md
   - Maintenance: 
     - Water:
-      - Water in Carbon: maintenance/water/water-in-carbon.md
+      - Water in Neon: maintenance/water/water-in-carbon.md
       - Change Water: maintenance/water/change-water.md
       - I Have Bubbles: maintenance/water/i-have-bubbles.md
     - Cleaning:
@@ -203,7 +203,7 @@ nav:
     - Not Connecting:
       - USB Cable: troubleshooting/not-connecting/usb-cable.md
       - SD Card: troubleshooting/not-connecting/sd-card.md
-      - Carbon Wi-Fi: troubleshooting/not-connecting/carbon-wifi.md
+      - Neon Wi-Fi: troubleshooting/not-connecting/carbon-wifi.md
       - Local Network Wi-Fi: troubleshooting/not-connecting/local-network-wifi.md
       - Check Board: troubleshooting/not-connecting/check-board.md
     - Sensors:

@@ -1,4 +1,4 @@
-# Verificando atividades da placa
+# Checking board activities
 
 <figure markdown="span">
   

@@ -4,7 +4,7 @@
 
 !!! note ""
 
-    ### Carbon Studio Version 1.5.1
+    ### Neon Studio Version 1.5.1
     Click the button below to download the software.
     
     Learn more details about how to install the software in our [Studio] section.
@@ -30,8 +30,8 @@
 
 !!! note ""
 
-    ### Carbon Manual
-    Click the button below to download the Carbon manual in PDF.
+    ### Neon Manual
+    Click the button below to download the Neon manual in PDF.
     
     You can also read the manual here on this site in the [Manual] section.
 
@@ -39,8 +39,8 @@
 
     [Download](https://drive.google.com/file/d/1BYpAEwMVH_CSKg_psk-4yMmy8Keej1tb/view?usp=sharing){ .md-button target="_blank"}
 
-    ### Carbon Maintenance Manual
-    Click the button below to download the Carbon maintenance manual in PDF.
+    ### Neon Maintenance Manual
+    Click the button below to download the Neon maintenance manual in PDF.
     
     You can also read the manual here on this site in the [Manual] section.
 
@@ -53,22 +53,22 @@
 !!! note ""
 
     ### Cutting Tests for Engraving
-    The following links include the project in SVG and the project in G-CODE for your Carbon.
+    The following links include the project in SVG and the project in G-CODE for your Neon.
 
     [Download](https://drive.google.com/file/d/11eEqIUcx1SF6gMWhjog7JDLEOrdE9dc8/view?usp=sharing){ .md-button target="_blank"}
 
     ### Generic Cutting Tests
-    The following links include the project in SVG and the project in G-CODE for your Carbon.
+    The following links include the project in SVG and the project in G-CODE for your Neon.
 
     [Download](https://drive.google.com/file/d/1TqYL2vwF50MRdcPyGatzLiguYWQMnyKe/view?usp=sharing){ .md-button target="_blank"}
 
     ### Light Material Cutting Tests
-    The following links include the project in SVG and the project in G-CODE for your Carbon.
+    The following links include the project in SVG and the project in G-CODE for your Neon.
 
     [Download](https://drive.google.com/file/d/1MHsutLMgGS1hPpmqIzFYeyYf0WazbsKG/view?usp=sharing){ .md-button target="_blank"}
 
     ### Rigid Material Cutting Tests
-    The following links include the project in SVG and the project in G-CODE for your Carbon.
+    The following links include the project in SVG and the project in G-CODE for your Neon.
 
     [Download](https://drive.google.com/file/d/1YQ8g6jjjvwMGDgkdkSCr4OcjbvWS8gBA/view?usp=sharing){ .md-button target="_blank"} 
 

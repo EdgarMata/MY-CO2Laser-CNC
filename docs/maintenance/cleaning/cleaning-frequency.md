@@ -1,4 +1,4 @@
-# Qual a frequência das limpezas?
+# How frequent are cleanings?
 
 <figure markdown="span">
   

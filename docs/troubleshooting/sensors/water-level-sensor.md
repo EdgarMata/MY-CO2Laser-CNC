@@ -1,4 +1,4 @@
-# Verificar sensor do nivel da água
+# Check water level sensor
 
 <figure markdown="span">
   

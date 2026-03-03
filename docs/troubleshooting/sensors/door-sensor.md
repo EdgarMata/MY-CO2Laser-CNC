@@ -1,4 +1,4 @@
-# Sensor de porta
+# Door sensor
 
 <figure markdown="span">
   

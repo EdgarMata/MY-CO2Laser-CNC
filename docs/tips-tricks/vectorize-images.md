@@ -1,4 +1,4 @@
-# Vetorizar imagem no Carbon Studio
+# Vetorizar imagem no Neon Studio
 
 <figure markdown="span">
   

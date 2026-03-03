@@ -1,23 +1,23 @@
-# Encher o reservatório com água
+# Filling the Reservoir with Water
 
-A água desempenha um papel fundamental no funcionamento adequado da sua Carbon. Para garantir uma boa manutenção, é recomendado o uso de água desmineralizada, destilada ou deionizada. Neste artigo, vamos orientá-lo sobre como preparar sua Carbon para funcionamento, incluindo como encher o reservatório de água, além de abordar algumas dúvidas comuns sobre o tema.
+Water plays a fundamental role in ensuring the Neon operates properly. To maintain proper operation, it is recommended to use demineralized, distilled, or deionized water. In this article, we will guide you on how to prepare your Neon for operation, including how to fill the water reservoir, and address some common questions about the topic.
 
-## Dúvidas Frequentes
+## Frequently Asked Questions
 
-Muitas vezes surgem dúvidas relacionadas à água na Carbon. Para esclarecer melhor esse tema, elaboramos o artigo [Água na Carbon], onde você encontrará respostas para perguntas como:
+Questions often arise regarding water in the Neon. To clarify this topic further, we have prepared the article [Water in Neon], where you will find answers to questions such as:
 
-[Água na Carbon]: https://gadgetpluskdb.github.io/Carbon-FAQS/manuten%C3%A7%C3%A3o/%C3%A1gua/agua-na-carbon/
+[Water in Neon]: https://gadgetpluskdb.github.io/Carbon-FAQS/maintenance/water/water-in-neon/
 
-Por que é necessário colocar água na minha Carbon?
-Que tipo de água devo usar?
-O que fazer se eu não tiver água especial disponível?
-Com que frequência devo trocar a água?
-Onde posso encontrar água destilada, deionizada ou desmineralizada para comprar?
+Why do I need to put water in my Neon?
+What type of water should I use?
+What should I do if I don't have special water available?
+How often should I change the water?
+Where can I find distilled, deionized, or demineralized water to buy?
 <!--
-Você pode conferir o vídeo abaixo sobre como encher o reservatório da máquina:
+You can watch the video below on how to fill the machine's reservoir:
 -->
 
-## Enchendo o Reservatório da Carbon
+## Filling the Neon Reservoir
 
 <figure markdown="span">
 
@@ -26,12 +26,12 @@ Você pode conferir o vídeo abaixo sobre como encher o reservatório da máquin
 
 </figure>
 
-Este procedimento deve ser realizado com a máquina ligada.
+This procedure should be performed with the machine powered on.
 
-* Usando o funil, adicione cuidadosamente cerca de 3 litros de água ao reservatório.
-* Obeserve atentamente o nivel até ficar certo pelo inicio da entrada. É importante que a água fique acima deste nível para garantir um funcionamento adequado.
-* Com a Carbon ligada, a água deverá circular pela parte interna do tubo.
-* Complete o reservatório com água até que fique completamente cheio, o que deve totalizar cerca de 3.2 litros de água. Confira visualmente o nível da água.
+* Using the funnel, carefully add approximately 3 liters of water to the reservoir.
+* Observe the water level carefully to ensure it is correct at the start of the inlet. It is important that the water level stays above this point to ensure proper operation.
+* When the Neon is powered on, water should circulate through the inside of the tube.
+* Fill the reservoir with water until completely full, which should total approximately 3.2 liters of water. Visually verify the water level.
 
 <figure markdown="span">
 
@@ -40,22 +40,22 @@ Este procedimento deve ser realizado com a máquina ligada.
 
 </figure>
 
-## Identificando a Circulação da Água
+## Identifying Water Circulation
 
-É importante garantir que a água esteja circulando pelo tubo. Aqui estão algumas maneiras de verificar isso:
+It is important to ensure water is circulating through the tube. Here are some ways to verify this:
 
-Conferência Visual: Tente observar se a água está passando pelo tubo, embora isso possa ser difícil devido à natureza translúcida da água.
-Bolhas de Ar no Tubo Laser
-Um problema comum é a formação de bolhas de ar no tubo laser durante o processo de enchimento de água. Isso pode ser prejudicial ao funcionamento da máquina e precisa ser corrigido. Consulte o artigo [Tenho Bolhas] para obter orientações sobre como resolver esse problema.
+Visual Check: Try to observe if water is flowing through the tube, although this may be difficult due to the translucent nature of water.
+Air Bubbles in the Laser Tube
+A common issue is the formation of air bubbles in the laser tube during the water filling process. This can be harmful to machine operation and needs to be corrected. Refer to the article [I Have Bubbles] for guidance on how to resolve this issue.
 
-[Tenho Bolhas]: https://gadgetpluskdb.github.io/Carbon-FAQS/manuten%C3%A7%C3%A3o/%C3%A1gua/tenho-bolhas/
+[I Have Bubbles]: https://gadgetpluskdb.github.io/Carbon-FAQS/maintenance/water/have-bubbles/
 
-## Garantindo o Nível de Água
+## Ensuring Proper Water Level
 
-Após a circulação da água, o nível no reservatório deve diminuir um pouco, motivo este é porque a água vai completar todos o resto do sistema "tubo de laser e radeador". Certifique-se de que o reservatório esteja sempre cheio, ajustando o nível conforme necessário.
+After water circulation, the water level in the reservoir should decrease slightly because the water will fill the rest of the system "laser tube and chiller". Make sure the reservoir stays full by adjusting the level as needed.
 
-Dica:
-  Se o nivel da agua não estiver bom o softwar vai avisar e vai prevenir a o funcionamento da máquina, veja onde pode consultar no software o nível na seguinte imagem.
+Tip:
+  If the water level is not correct, the software will warn you and prevent the machine from operating. See where you can check the water level in the software in the image below.
 
 <figure markdown="span">
 
@@ -64,6 +64,6 @@ Dica:
 
 </figure>
 
-Neste artigo, abordamos a importância do uso correto da água, como encher o reservatório corretamente e como lidar com bolhas de ar. No próximo artigo da série [Primeiros Passos], vamos aprender sobre as diferentes formas de conexão na Carbon.
+In this article, we covered the importance of proper water use, how to correctly fill the reservoir, and how to deal with air bubbles. In the next article of the [Getting Started] series, we will learn about the different ways to connect the Neon.
 
-[Primeiros Passos]: https://gadgetpluskdb.github.io/Carbon-FAQS/manual/primeiros-passos/instalar-carbon/
+[Getting Started]: https://gadgetpluskdb.github.io/Carbon-FAQS/manual/getting-started/install-carbon/

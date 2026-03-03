@@ -1,4 +1,4 @@
-# Como limpar o exaustor da Carbon
+# How to clean the Neon hood
 
 <figure markdown="span">
   

@@ -1,4 +1,4 @@
-# Atualizar o seu Carbon Studio
+# Upgrade your Neon Studio
 
 <figure markdown="span">
   

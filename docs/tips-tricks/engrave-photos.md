@@ -1,4 +1,4 @@
-# Como fazer a gravação de foto na Carbon
+# Como fazer a gravação de foto na Neon
 
 <figure markdown="span">
   

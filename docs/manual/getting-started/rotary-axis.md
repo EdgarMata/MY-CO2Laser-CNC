@@ -1,4 +1,4 @@
-# Eixo rotativo em breve
+# Rotary Axis Coming Soon
 
 <figure markdown="span">
   

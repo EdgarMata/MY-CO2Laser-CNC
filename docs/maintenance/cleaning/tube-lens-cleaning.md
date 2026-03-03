@@ -1,4 +1,4 @@
-# Limpeza da lente do tubo laser
+# Cleaning the laser tube lens
 
 <figure markdown="span">
   
