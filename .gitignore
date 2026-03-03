@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+
+# Build / site output
+site/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
