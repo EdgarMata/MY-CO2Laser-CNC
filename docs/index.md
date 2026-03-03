@@ -22,7 +22,7 @@ hide:
 
     In this section, you will find everything you need about the Neon manuals and how to download them.
 
-    [:octicons-arrow-right-24: Learn More](https://edgarmata.github.io/Carbon-FAQS/manual/)
+    [:octicons-arrow-right-24: Learn More](https://edgarmata.github.io/MY-CO2Laser-CNC/manual/)
 
 -   :fontawesome-solid-screwdriver-wrench:{ .lg .middle } __Maintenance Help__
 
@@ -30,7 +30,7 @@ hide:
 
     Need information on how to perform any type of maintenance on your Neon? This is the place.
 
-    [:octicons-arrow-right-24: Learn More](https://edgarmata.github.io/Carbon-FAQS/maintenance/water/water-in-neon/)
+    [:octicons-arrow-right-24: Learn More](https://edgarmata.github.io/MY-CO2Laser-CNC/maintenance/water/water-in-neon/)
 
 -   :fontawesome-brands-app-store:{ .lg .middle } __Help with Neon Studio__
 
@@ -38,7 +38,7 @@ hide:
 
     From the first steps with Neon Studio to advanced help, here you will find various articles for your training with the software.
 
-    [:octicons-arrow-right-24: Learn More](https://edgarmata.github.io/Carbon-FAQS/studio/install-software/)
+    [:octicons-arrow-right-24: Learn More](https://edgarmata.github.io/MY-CO2Laser-CNC/studio/install-software/)
 
 -   :fontawesome-solid-triangle-exclamation:{ .lg .middle } __Troubleshooting__
 
@@ -46,7 +46,7 @@ hide:
 
     Having a problem with your machine? Find some simple solutions here that can help you a lot.
 
-    [:octicons-arrow-right-24: Learn More](https://edgarmata.github.io/Carbon-FAQS/troubleshooting/different-cut/adjust-belts/)
+    [:octicons-arrow-right-24: Learn More](https://edgarmata.github.io/MY-CO2Laser-CNC/troubleshooting/different-cut/adjust-belts/)
 
 -   :fontawesome-solid-helmet-safety:{ .lg .middle } __Safety Help__
 
@@ -54,7 +54,7 @@ hide:
 
     Safety first, learn everything about working safely with your Neon.
 
-    [:octicons-arrow-right-24: Learn More](https://edgarmata.github.io/Carbon-FAQS/seguran%C3%A7a/instruc%C3%B5es-seguranca/)
+    [:octicons-arrow-right-24: Learn More](https://edgarmata.github.io/MY-CO2Laser-CNC/safety/safety-instructions/)
 
 -   :fontawesome-solid-wand-magic-sparkles:{ .lg .middle } __Learn with Tips and Tricks__
 
@@ -62,7 +62,7 @@ hide:
 
     Want to learn just a little more? Then this is the place...
 
-    [:octicons-arrow-right-24: Learn More](https://edgarmata.github.io/Carbon-FAQS/truques-%26-dicas/vetorizar-imagem/)          
+    [:octicons-arrow-right-24: Learn More](https://edgarmata.github.io/MY-CO2Laser-CNC/tips-tricks/best-practices/)          
 
 </div>
 

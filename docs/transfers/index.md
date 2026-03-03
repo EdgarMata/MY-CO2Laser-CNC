@@ -1,5 +1,11 @@
-# Transfers
+# Downloads
 
+<div align="center" style="overflow: hidden; padding: 20px;">
+  <img src="C:\Mecaltex\MY-CO2Laser-CNC\docs\images\f-icon.png" class="foto-maquina" width="500">
+</div>
+
+---
+    
 ## Software
 
 !!! note ""
@@ -9,9 +15,9 @@
     
     Learn more details about how to install the software in our [Studio] section.
 
-    [Studio]: https://gadgetpluskdb.github.io/Carbon-FAQS/studio/instalar-software/
+    [Studio]: ../studio/install-software/
 
-    [Download](https://drive.google.com/file/d/1sMmQ-S8c64ZeZL8mtnbAXQutqwtjfCJW/view?usp=sharing){ .md-button target="_blank"}
+    [Download](https://drive.google.com/file/d/1sMmQ-S8c64ZeZL8mtnbAXQutqwtjfCJW/view?usp=sharing){ .md-button .md-button--primary target="_blank"}
 
 ## Drivers
 
@@ -22,7 +28,7 @@
 
     Learn more details about the USB connection [here].
 
-    [here]: https://gadgetpluskdb.github.io/Carbon-FAQS/studio/conex%C3%A3o-computador/#conexao-via-usb
+    [here]: ../studio/connection/
 
     [Download](https://drive.google.com/file/d/10JnDWMeaWblnzpIX60-MD6HoB6qVqJ4M/view?usp=sharing){ .md-button target="_blank"}
     
@@ -35,18 +41,14 @@
     
     You can also read the manual here on this site in the [Manual] section.
 
-    [Manual]: https://gadgetpluskdb.github.io/Carbon-FAQS/manual/
+    [Manual]: ../manual/
 
     [Download](https://drive.google.com/file/d/1BYpAEwMVH_CSKg_psk-4yMmy8Keej1tb/view?usp=sharing){ .md-button target="_blank"}
 
     ### Neon Maintenance Manual
     Click the button below to download the Neon maintenance manual in PDF.
-    
-    You can also read the manual here on this site in the [Manual] section.
 
-    [Manual]: https://egadgetpluskdb.github.io/Carbon-FAQS/manual/
-
-    [Coming Soon](#){ .md-button }
+    [Coming Soon](#){ .md-button disabled }
 
 ## Test Files for Cutting
 
@@ -81,10 +83,8 @@
 
     [Parameter Table] - [Parameter Test] - [The Influence of Speed and Power]
 
-    [Parameter Table]: https://gadgetpluskdb.github.io/Carbon-FAQS/truques-%26-dicas/tabela-parametros/
-    
-    [Parameter Test]: https://gadgetpluskdb.github.io/Carbon-FAQS/truques-%26-dicas/testes-parametros/
-    
-    [The Influence of Speed and Power]: https://gadgetpluskdb.github.io/Carbon-FAQS/truques-%26-dicas/influ-velocidade-material/
+    [Parameter Table]: ../tips-tricks/parameter-table/
+    [Parameter Test]: ../tips-tricks/parameter-test/
+    [The Influence of Speed and Power]: ../tips-tricks/speed-and-material/
 
     [Download](https://drive.google.com/file/d/1CxQx5le9MeyUz4vuLkVUGNjaVHhfYy4L/view?usp=sharing){ .md-button target="_blank"}

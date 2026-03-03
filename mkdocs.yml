@@ -9,7 +9,6 @@ repo_name: "MY-CO2Laser-CNC"
 repo_url: "https://github.com/EdgarMata/MY-CO2Laser-CNC"
 
 # Copyright
-# copyright: '&copy; 2025 <a href="https://my-machines.net/" target="_blank" rel="noopener">My Machines</a> by Edgar Mata'
 copyright: '&copy; 2022 - <span id="current-year"></span> <a href="https://my-machines.net/" target="_blank" rel="noopener">My Machines</a> by Edgar Mata'
 
 # Configuration
@@ -18,10 +17,8 @@ theme:
   language: pt
   logo: assets/mylogo.svg
   favicon: images/f-icon.png
-  #custom_dir: overrides
   features:
     - navigation.tabs
-#   - navigation.sections
     - navigation.path
     - navigation.expand
     - navigation.footer 
@@ -33,14 +30,12 @@ theme:
     - content.code.annotate
     - content.code.copy
     - header.autohide  
+
   palette:
-    # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
       toggle:
         icon: material/link
         name: System Preferences
-
-    # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
       toggle:
@@ -48,8 +43,6 @@ theme:
         name: Switch to dark mode
       primary: light blue
       accent: indigo
-
-    # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       toggle:
@@ -96,14 +89,15 @@ extra:
         - icon: material/thumb-up-outline
           name: Did this page help
           data: 1
-          note: >-
-            Thanks for the feedback!
+          note: "Thanks for the feedback!"
         - icon: material/thumb-down-outline
           name: This page can be improved
           data: 0
-          note: >- 
-            Thanks for the feedback! Help us improve this page
-            using our <a href="https://docs.google.com/forms/d/e/1FAIpQLSf_kuzfD_Tbez4b-jqxr0dPAsu4QGP72imTuG0AKUAi-gQKLg/viewform?usp=pp_url&entry.756152555={url}" target="_blank" rel="noopener">feedback form</a>.     
+          note: "Thanks for the feedback! Help us improve this page using our feedback form."
+
+# --- CSS PERSONALIZADO PARA ANIMAÇÕES ---
+extra_css:
+  - stylesheets/extra.css
 
 markdown_extensions:
   - pymdownx.highlight:
@@ -117,8 +111,8 @@ markdown_extensions:
   - footnotes
   - pymdownx.details  
   - pymdownx.mark
-  - attr_list
-  - md_in_html
+  - attr_list      # Necessário para classes CSS nas imagens e botões
+  - md_in_html     # Necessário para usar <div> e <img> no markdown
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
@@ -130,113 +124,111 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Manual:
-    - manual/index.md    
-    - Getting Started:
-      - Install Neon: manual/getting-started/install-carbon.md
-      - Fill Reservoir: manual/getting-started/fill-reservoir.md
-      - Remove Supports: manual/getting-started/remove-supports.md
-      - Honeycomb: manual/getting-started/honeycomb.md
-      - Rotary Axis: manual/getting-started/rotary-axis.md
-      - 4K Camera: manual/getting-started/4k-camera.md
-    - First Projects:
-      - Materials: manual/first-projects/materials.md
-      - Adjust Focus: manual/first-projects/adjust-focus.md
-      - Speed and Power: manual/first-projects/speed-power.md
-      - Printer Scissors: manual/first-projects/printer-scissors.md
-      - First Cut: manual/first-projects/first-cut.md
-      - First Engraving: manual/first-projects/first-engraving.md
+      - manual/index.md    
+      - Getting Started:
+          - Install Neon: manual/getting-started/install-carbon.md
+          - Fill Reservoir: manual/getting-started/fill-reservoir.md
+          - Remove Supports: manual/getting-started/remove-supports.md
+          - Honeycomb: manual/getting-started/honeycomb.md
+          - Rotary Axis: manual/getting-started/rotary-axis.md
+          - 4K Camera: manual/getting-started/4k-camera.md
+      - First Projects:
+          - Materials: manual/first-projects/materials.md
+          - Adjust Focus: manual/first-projects/adjust-focus.md
+          - Speed and Power: manual/first-projects/speed-power.md
+          - Printer Scissors: manual/first-projects/printer-scissors.md
+          - First Cut: manual/first-projects/first-cut.md
+          - First Engraving: manual/first-projects/first-engraving.md
   - Maintenance: 
-    - Water:
-      - Water in Neon: maintenance/water/water-in-carbon.md
-      - Change Water: maintenance/water/change-water.md
-      - I Have Bubbles: maintenance/water/i-have-bubbles.md
-    - Cleaning:
-      - Cleaning Frequency: maintenance/cleaning/cleaning-frequency.md
-      - Mirror Cleaning: maintenance/cleaning/mirror-cleaning.md
-      - Exhaust Cleaning: maintenance/cleaning/exhaust-cleaning.md
-      - Interior Cleaning: maintenance/cleaning/interior-cleaning.md
-      - Lens Cleaning: maintenance/cleaning/lens-cleaning.md
-      - Tube Lens Cleaning: maintenance/cleaning/tube-lens-cleaning.md
+      - Water:
+          - Water in Neon: maintenance/water/water-in-carbon.md
+          - Change Water: maintenance/water/change-water.md
+          - I Have Bubbles: maintenance/water/i-have-bubbles.md
+      - Cleaning:
+          - Cleaning Frequency: maintenance/cleaning/cleaning-frequency.md
+          - Mirror Cleaning: maintenance/cleaning/mirror-cleaning.md
+          - Exhaust Cleaning: maintenance/cleaning/exhaust-cleaning.md
+          - Interior Cleaning: maintenance/cleaning/interior-cleaning.md
+          - Lens Cleaning: maintenance/cleaning/lens-cleaning.md
+          - Tube Lens Cleaning: maintenance/cleaning/tube-lens-cleaning.md
   - Safety:
-    - Safety Instructions: safety/safety-instructions.md
-    - Socket Instructions: safety/socket-instructions.md
-    - Material Precautions: 
-      - ABS Cutting: safety/material-precautions/abs-cutting.md
-      - PVC Cutting: safety/material-precautions/pvc-cutting.md
+      - Safety Instructions: safety/safety-instructions.md
+      - Socket Instructions: safety/socket-instructions.md
+      - Material Precautions: 
+          - ABS Cutting: safety/material-precautions/abs-cutting.md
+          - PVC Cutting: safety/material-precautions/pvc-cutting.md
   - Studio:
-    - Install Software: studio/install-software.md
-    - Connection: studio/connection.md
-    - Software Update: studio/software-update.md
-    - Tips & Tricks: studio/tips-tricks.md
-    - 4K Camera: studio/4k-camera.md
-    - Getting Started:
-      - Layers: studio/getting-started/layers.md
-      - Initial Window: studio/getting-started/initial-window.md
-      - Connection Commands: studio/getting-started/connection-commands.md
-      - Movement Commands: studio/getting-started/movement-commands.md
-      - Preview Function: studio/getting-started/preview-function.md
-      - Symbolic Icons: studio/getting-started/symbolic-icons.md
-      - Camera use: studio/getting-started/camera-use.md
-    - Basic Tutorial:
-      - Basic Principles: studio/basic-tutorial/basic-principles.md
-      - Shapes: studio/basic-tutorial/shapes.md
-    - Intermediate Tutorial:
-      - Vectorization: studio/intermediate-tutorial/vectorization.md
-      - Vectorize Pixels: studio/intermediate-tutorial/vectorize-pixels.md
-    - Advanced Tutorial:
-      - Freehand Drawing: studio/advanced-tutorial/freehand-drawing.md
-      - Calligraphy: studio/advanced-tutorial/calligraphy.md
-      - Interpolation: studio/advanced-tutorial/interpolation.md
+      - Install Software: studio/install-software.md
+      - Connection: studio/connection.md
+      - Software Update: studio/software-update.md
+      - Tips & Tricks: studio/tips-tricks.md
+      - 4K Camera: studio/4k-camera.md
+      - Getting Started:
+          - Layers: studio/getting-started/layers.md
+          - Initial Window: studio/getting-started/initial-window.md
+          - Connection Commands: studio/getting-started/connection-commands.md
+          - Movement Commands: studio/getting-started/movement-commands.md
+          - Preview Function: studio/getting-started/preview-function.md
+          - Symbolic Icons: studio/getting-started/symbolic-icons.md
+          - Camera use: studio/getting-started/camera-use.md
+      - Basic Tutorial:
+          - Basic Principles: studio/basic-tutorial/basic-principles.md
+          - Shapes: studio/basic-tutorial/shapes.md
+      - Intermediate Tutorial:
+          - Vectorization: studio/intermediate-tutorial/vectorization.md
+          - Vectorize Pixels: studio/intermediate-tutorial/vectorize-pixels.md
+      - Advanced Tutorial:
+          - Freehand Drawing: studio/advanced-tutorial/freehand-drawing.md
+          - Calligraphy: studio/advanced-tutorial/calligraphy.md
+          - Interpolation: studio/advanced-tutorial/interpolation.md
   - Troubleshooting:
-    - Different Cut:
-      - Adjust Belts: troubleshooting/different-cut/adjust-belts.md
-      - Wrong Drawing: troubleshooting/different-cut/wrong-drawing.md
-      - Adjust Focus: troubleshooting/different-cut/adjust-focus.md      
-    - Not Cutting:
-      - How the Tube Works: troubleshooting/not-cutting/how-tube-works.md
-      - Not Cutting Material: troubleshooting/not-cutting/not-cutting-material.md
-      - No Laser: troubleshooting/not-cutting/no-laser.md
-      - Weak Laser: troubleshooting/not-cutting/weak-laser.md
-      - Check Mirrors: troubleshooting/not-cutting/check-mirrors.md
-      - Align Mirrors: troubleshooting/not-cutting/align-mirrors.md
-      - Fire During Cut: troubleshooting/not-cutting/fire-during-cut.md
-    - Not Connecting:
-      - USB Cable: troubleshooting/not-connecting/usb-cable.md
-      - SD Card: troubleshooting/not-connecting/sd-card.md
-      - Neon Wi-Fi: troubleshooting/not-connecting/carbon-wifi.md
-      - Local Network Wi-Fi: troubleshooting/not-connecting/local-network-wifi.md
-      - Check Board: troubleshooting/not-connecting/check-board.md
-    - Sensors:
-      - Water Level Sensor: troubleshooting/sensors/water-level-sensor.md
-      - Door Sensor: troubleshooting/sensors/door-sensor.md
-      - Temperature Sensor: troubleshooting/sensors/temperature-sensor.md
-    - Software:
-      - Bar Not Opening: troubleshooting/software/bar-not-opening.md
-      - No Preview: troubleshooting/software/no-preview.md
-      - Black Camera picture: troubleshooting/software/black-camera-picture.md
+      - Different Cut:
+          - Adjust Belts: troubleshooting/different-cut/adjust-belts.md
+          - Wrong Drawing: troubleshooting/different-cut/wrong-drawing.md
+          - Adjust Focus: troubleshooting/different-cut/adjust-focus.md      
+      - Not Cutting:
+          - How the Tube Works: troubleshooting/not-cutting/how-tube-works.md
+          - Not Cutting Material: troubleshooting/not-cutting/not-cutting-material.md
+          - No Laser: troubleshooting/not-cutting/no-laser.md
+          - Weak Laser: troubleshooting/not-cutting/weak-laser.md
+          - Check Mirrors: troubleshooting/not-cutting/check-mirrors.md
+          - Align Mirrors: troubleshooting/not-cutting/align-mirrors.md
+          - Fire During Cut: troubleshooting/not-cutting/fire-during-cut.md
+      - Not Connecting:
+          - USB Cable: troubleshooting/not-connecting/usb-cable.md
+          - SD Card: troubleshooting/not-connecting/sd-card.md
+          - Neon Wi-Fi: troubleshooting/not-connecting/carbon-wifi.md
+          - Local Network Wi-Fi: troubleshooting/not-connecting/local-network-wifi.md
+          - Check Board: troubleshooting/not-connecting/check-board.md
+      - Sensors:
+          - Water Level Sensor: troubleshooting/sensors/water-level-sensor.md
+          - Door Sensor: troubleshooting/sensors/door-sensor.md
+          - Temperature Sensor: troubleshooting/sensors/temperature-sensor.md
+      - Software:
+          - Bar Not Opening: troubleshooting/software/bar-not-opening.md
+          - No Preview: troubleshooting/software/no-preview.md
+          - Black Camera picture: troubleshooting/software/black-camera-picture.md
   - Downloads:
-    - transfers/index.md
+      - transfers/index.md
   - Tips & Tricks: 
-    - Best Practices: tips-tricks/best-practices.md
-    - Budgeting: tips-tricks/budgeting.md
-    - Burnt Finish: tips-tricks/burnt-finish.md
-    - Contour Tips: tips-tricks/contour-tips.md
-    - Cut MDF: tips-tricks/cut-mdf.md
-    - Dashed Lines: tips-tricks/dashed-lines.md
-    - Vectorize Images: tips-tricks/vectorize-images.md
-    - Engrave Photos: tips-tricks/engrave-photos.md
-    - Import: tips-tricks/import.md
-    - Export Silhouette: tips-tricks/export-silhouette.md
-    - Make Signage: tips-tricks/make-signage.md
-    - Make Stamps: tips-tricks/make-stamps.md
-    - Metal Engraving: tips-tricks/metal-engraving.md
-    - Mirrored Acrylic: tips-tricks/mirrored-acrylic.md
-    - Optimize Time: tips-tricks/optimize-time.md
-    - Parameter Table: tips-tricks/parameter-table.md
-    - Parameter Test: tips-tricks/parameter-test.md
-    - Perfect Engraving: tips-tricks/perfect-engraving.md
-    - Printed Material: tips-tricks/printed-material.md
-    - Speed and Material: tips-tricks/speed-and-material.md
-    - Spotifiy Code: tips-tricks/spotifiy-code.md
-    
-    
+      - Best Practices: tips-tricks/best-practices.md
+      - Budgeting: tips-tricks/budgeting.md
+      - Burnt Finish: tips-tricks/burnt-finish.md
+      - Contour Tips: tips-tricks/contour-tips.md
+      - Cut MDF: tips-tricks/cut-mdf.md
+      - Dashed Lines: tips-tricks/dashed-lines.md
+      - Vectorize Images: tips-tricks/vectorize-images.md
+      - Engrave Photos: tips-tricks/engrave-photos.md
+      - Import: tips-tricks/import.md
+      - Export Silhouette: tips-tricks/export-silhouette.md
+      - Make Signage: tips-tricks/make-signage.md
+      - Make Stamps: tips-tricks/make-stamps.md
+      - Metal Engraving: tips-tricks/metal-engraving.md
+      - Mirrored Acrylic: tips-tricks/mirrored-acrylic.md
+      - Optimize Time: tips-tricks/optimize-time.md
+      - Parameter Table: tips-tricks/parameter-table.md
+      - Parameter Test: tips-tricks/parameter-test.md
+      - Perfect Engraving: tips-tricks/perfect-engraving.md
+      - Printed Material: tips-tricks/printed-material.md
+      - Speed and Material: tips-tricks/speed-and-material.md
+      - Spotifiy Code: tips-tricks/spotifiy-code.md

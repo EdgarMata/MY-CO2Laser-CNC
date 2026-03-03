@@ -1,0 +1,53 @@
+/* --- ANIMAÇÃO DAS LETRAS --- */
+h2:hover, h3:hover {
+  color: #00b0ff;
+  transform: translateX(8px);
+  transition: all 0.3s ease;
+  cursor: default;
+}
+
+/* --- ANIMAÇÃO DOS BOTÕES --- */
+.md-button:hover {
+  transform: scale(1.05);
+  background-color: #00b0ff !important;
+  border-color: #00b0ff !important;
+  color: white !important;
+  transition: 0.3s;
+}
+
+/* --- NOVO EFEITO DE AMPLIAÇÃO NA FOTO --- */
+.foto-maquina {
+  display: block;
+  margin: 20px auto;
+  border-radius: 8px;
+  transition: transform 0.4s ease; /* Suaviza a ampliação */
+  cursor: zoom-in;
+}
+
+.foto-maquina:hover {
+  /* O valor 1.2 amplia a foto em 20%. Podes aumentar para 1.5 se quiseres mais zoom */
+  transform: scale(1.2); 
+  z-index: 10; /* Garante que a foto fica por cima de outros elementos ao ampliar */
+}
+
+/* Links simples */
+article a:not(.md-button):hover {
+  text-decoration: underline;
+  filter: brightness(1.3);
+}
+
+/* Classe específica para a imagem da máquina na Home */
+.zoom-maquina {
+  display: block;
+  margin: 0 auto;
+  border-radius: 10px;
+  transition: transform 0.5s cubic-bezier(0.4, 0, 0.2, 1); /* Transição suave */
+  cursor: pointer;
+  max-width: 100%; /* Garante que não sai do ecrã em telemóveis */
+}
+
+/* O efeito de ampliar quando o rato está em cima */
+.zoom-maquina:hover {
+  transform: scale(1.15); /* Aumenta 15%. Se quiseres mais, usa 1.2 ou 1.3 */
+  box-shadow: 0 10px 30px rgba(0,0,0,0.3); /* Adiciona uma sombra para dar profundidade */
+}

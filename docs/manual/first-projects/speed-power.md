@@ -50,12 +50,12 @@ The parameters are adjusted according to the layer selected in the software, ava
 
 Due to the variety of materials and their specific characteristics, it is important to perform [tests to determine the most suitable settings].
 
-[tests to determine the most suitable settings]: https://gadgetpluskdb.github.io/Carbon-FAQS/truques-%26-dicas/testes-parametros/
+[tests to determine the most suitable settings]: https://my-machinespluskdb.github.io/Neon-FAQS/truques-%26-dicas/testes-parametros/
 
 ### To facilitate this process, we have developed cutting templates!
 
 These templates allow you to test various parameter combinations, helping to identify the optimal setting for each type of material. Additionally, we [provide] some files in Neon Studio to simplify this testing and adjustment process.
 
-[provide]: https://gadgetpluskdb.github.io/Carbon-FAQS/transferencias/#arquivos-para-testes-de-parametros
+[provide]: https://my-machinespluskdb.github.io/Neon-FAQS/transferencias/#arquivos-para-testes-de-parametros
 
 In this article, we deepened our understanding of speed and power parameters, explored how to configure them in Neon Studio, and recognized the importance of practical tests to determine the ideal adjustments. This information is fundamental to ensuring consistent and high-quality results in the laser cutting process.

@@ -6,7 +6,7 @@ Water plays a fundamental role in ensuring the Neon operates properly. To mainta
 
 Questions often arise regarding water in the Neon. To clarify this topic further, we have prepared the article [Water in Neon], where you will find answers to questions such as:
 
-[Water in Neon]: https://gadgetpluskdb.github.io/Carbon-FAQS/maintenance/water/water-in-neon/
+[Water in Neon]: https://my-machinespluskdb.github.io/Neon-FAQS/maintenance/water/water-in-neon/
 
 Why do I need to put water in my Neon?
 What type of water should I use?
@@ -48,7 +48,7 @@ Visual Check: Try to observe if water is flowing through the tube, although this
 Air Bubbles in the Laser Tube
 A common issue is the formation of air bubbles in the laser tube during the water filling process. This can be harmful to machine operation and needs to be corrected. Refer to the article [I Have Bubbles] for guidance on how to resolve this issue.
 
-[I Have Bubbles]: https://gadgetpluskdb.github.io/Carbon-FAQS/maintenance/water/have-bubbles/
+[I Have Bubbles]: https://my-machinespluskdb.github.io/Neon-FAQS/maintenance/water/have-bubbles/
 
 ## Ensuring Proper Water Level
 
@@ -66,4 +66,4 @@ Tip:
 
 In this article, we covered the importance of proper water use, how to correctly fill the reservoir, and how to deal with air bubbles. In the next article of the [Getting Started] series, we will learn about the different ways to connect the Neon.
 
-[Getting Started]: https://gadgetpluskdb.github.io/Carbon-FAQS/manual/getting-started/install-carbon/
+[Getting Started]: https://my-machinespluskdb.github.io/Neon-FAQS/manual/getting-started/install-Neon/

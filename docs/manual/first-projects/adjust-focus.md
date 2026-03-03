@@ -63,4 +63,4 @@ In this article, we learned about the importance of adjusting the focus and how 
 
 Follow our series of first steps articles to learn how to position the [material] on the Neon.
 
-[material]: https://gadgetpluskdb.github.io/Carbon-FAQS/manual/primeiros-trabalhos/material/
+[material]: https://my-machinespluskdb.github.io/Neon-FAQS/manual/primeiros-trabalhos/material/
