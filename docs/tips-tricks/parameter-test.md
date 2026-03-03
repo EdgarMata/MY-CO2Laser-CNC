@@ -14,7 +14,7 @@ Three distinct test models were developed, taking into account the different den
 
 To further facilitate your journey, you can download the cutting tests from our [downloads] page.
 
-[downloads]: https://gadgetpluskdb.github.io/Carbon-FAQS/transferencias/#arquivos-para-testes-de-corte
+[downloads]: https://my-machinespluskdb.github.io/Neon-FAQS/transferencias/#arquivos-para-testes-de-corte
 
 For a deeper understanding of each test and its specific applications, here is a brief explanation:
 

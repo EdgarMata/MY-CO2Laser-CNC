@@ -4,7 +4,7 @@ Your Neon has just arrived and now it's time to start the installation!
 
 To make this process easier, our team has prepared a complete installation guide with all the necessary information. You can download it [here] or find it on our support page.
 
-[here]: https://gadgetpluskdb.github.io/Carbon-FAQS/transfers/#manuals
+[here]: https://my-machinespluskdb.github.io/Neon-FAQS/transfers/#manuals
 
 In this article, we will address the topic more comprehensively, offering some helpful tips.
 
@@ -84,7 +84,7 @@ Remove only the packing seals, preferably with wire cutters; a sharp pair of sci
 * Remove the honeycomb attachment tape.
 * Position it at the bottom of the machine, ensuring the black side faces up. You can find more detailed information in the [honeycomb] section.
 
-[honeycomb]: https://gadgetpluskdb.github.io/Carbon-FAQS/manual/getting-started/honeycomb/
+[honeycomb]: https://my-machinespluskdb.github.io/Neon-FAQS/manual/getting-started/honeycomb/
 
 ## Connecting to the Power Supply
 
@@ -98,7 +98,7 @@ Remove only the packing seals, preferably with wire cutters; a sharp pair of sci
 * Connect the power cable from the machine's rear inlet to a standard 10A mains outlet with the voltage indicated on your machine (220V).
 * Proper grounding is essential. The Neon can malfunction or suffer component damage if connected to an ungrounded electrical installation. See our [safety] section "Socket Instructions" for more information.
 
-[safety]: https://gadgetpluskdb.github.io/Carbon-FAQS/safety/socket-instructions/
+[safety]: https://my-machinespluskdb.github.io/Neon-FAQS/safety/socket-instructions/
 
 * Power on the Neon.
 
@@ -112,4 +112,4 @@ In this article we covered how to install all the components of your Neon. The n
 
 Don't miss the next article in this series: [Fill Reservoir].
 
-[Fill Reservoir]: https://gadgetpluskdb.github.io/Carbon-FAQS/manual/getting-started/fill-reservoir/
+[Fill Reservoir]: https://my-machinespluskdb.github.io/Neon-FAQS/manual/getting-started/fill-reservoir/

@@ -87,8 +87,8 @@ Had any problems connecting? How about checking out these troubleshooting articl
 * Troubleshooting - [Neon Wi-Fi Network]
 * Troubleshooting - [Workplace Wi-Fi Network]
 
-[USB Cable]: https://edgarmata.github.io/Carbon-FAQS/studio/conex%C3%A3o-computador/#conexao-via-usb
+[USB Cable]: https://edgarmata.github.io/Neon-FAQS/studio/conex%C3%A3o-computador/#conexao-via-usb
 
-[Neon Wi-Fi Network]: https://edgarmata.github.io/Carbon-FAQS/studio/conex%C3%A3o-computador/#conexao-wi-fi-rede-carbon
+[Neon Wi-Fi Network]: https://edgarmata.github.io/Neon-FAQS/studio/conex%C3%A3o-computador/#conexao-wi-fi-rede-Neon
 
-[Workplace Wi-Fi Network]: https://edgarmata.github.io/Carbon-FAQS/studio/conex%C3%A3o-computador/#conexao-wi-fi-rede-local-de-trabalho
+[Workplace Wi-Fi Network]: https://edgarmata.github.io/Neon-FAQS/studio/conex%C3%A3o-computador/#conexao-wi-fi-rede-local-de-trabalho

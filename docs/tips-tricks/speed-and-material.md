@@ -11,16 +11,16 @@ In this article, we will address some of these factors to provide a more compreh
 
 Therefore, it is crucial to understand that similar materials can exhibit different behaviors during the cutting process. The parameter that worked well for cutting a specific type of acrylic may not be ideal for another type, even if both are classified as acrylics. For this reason, performing tests on the specific material to be used is essential to determine the ideal parameters. To help with this process, we offer an article where you can access and download some files to test different parameter configurations. Click [here] to access the article and obtain these useful resources.
 
-[here]: https://gadgetpluskdb.github.io/Carbon-FAQS/truques-%26-dicas/testes-parametros/
+[here]: https://my-machinespluskdb.github.io/Neon-FAQS/truques-%26-dicas/testes-parametros/
 
 ## Focus adjustment:
 
 An improper focus adjustment can also affect the determination of cutting parameters. Make sure the focus is correctly adjusted to ensure accurate and consistent results. Check out our article on how to ensure [proper focus adjustment] for more information.
 
-[proper focus adjustment]: https://gadgetpluskdb.github.io/Carbon-FAQS/manual/primeiros-trabalhos/ajustar-foco/
+[proper focus adjustment]: https://my-machinespluskdb.github.io/Neon-FAQS/manual/primeiros-trabalhos/ajustar-foco/
 
 ## Cleaning the mirrors and lens:
 
 Regular cleaning of the mirrors and lens is crucial, as dirt can interfere with the quality of the laser beam. If the set of mirrors and lens are dirty, less light will be reflected onto the material, which may require parameter adjustments to compensate. Keeping the machine maintenance up to date is essential to ensure consistent and high-quality results. Check out our list of articles on [preventive maintenance] for more information on how to keep your machine in optimal working condition.
 
-[preventive maintenance]: https://gadgetpluskdb.github.io/Carbon-FAQS/manuten%C3%A7%C3%A3o/%C3%A1gua/agua-na-carbon/
+[preventive maintenance]: https://my-machinespluskdb.github.io/Neon-FAQS/manuten%C3%A7%C3%A3o/%C3%A1gua/agua-na-neon/

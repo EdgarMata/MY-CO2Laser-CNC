@@ -206,14 +206,14 @@ Done! Now your laser machine is ready to start cutting and engraving.
 
     If there are, check our knowledge base for the procedure to [remove the bubbles].
 
-[remove the bubbles]: https://gadgetpluskdb.github.io/Carbon-FAQS/maintenance/water/remove-bubbles/
+[remove the bubbles]: https://my-machinespluskdb.github.io/Neon-FAQS/maintenance/water/remove-bubbles/
     
 
 ## Troubleshooting
 
 Consult the online knowledge base in the [Troubleshooting] section for more detailed information.
 
-[Troubleshooting]: https://gadgetpluskdb.github.io/Carbon-FAQS/troubleshooting/different-cut/adjust-belts/
+[Troubleshooting]: https://my-machinespluskdb.github.io/Neon-FAQS/troubleshooting/different-cut/adjust-belts/
 
 There you can find operating instructions, safety tips, usage tips, and possible problem-solving.
 You can also get the latest versions of the guides and software.

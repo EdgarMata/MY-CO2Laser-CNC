@@ -6,7 +6,7 @@ Positioning the design on the material. For this, it is crucial to understand th
 
 Already feel comfortable operating the machine? Then let's move on to the next step!
 
-[Studio]: https://gadgetpluskdb.github.io/Carbon-FAQS/studio/primeiros-passos/comando-movimento/
+[Studio]: https://my-machinespluskdb.github.io/Neon-FAQS/studio/primeiros-passos/comando-movimento/
 
 Adjusting the design in the Neon Studio workspace
 Regardless of whether the design was created within Neon Studio or imported from another software, it is necessary to position it at zero within the software.
@@ -96,4 +96,4 @@ It is crucial to remember that the size of the object cannot exceed the machine'
 
 In this article, we explored how to position the design on the material to optimize our work! Join us in the next article, where we will explain how to set the [speed and power] of the machine.
 
-[speed and power]: https://gadgetpluskdb.github.io/Carbon-FAQS/manual/primeiros-trabalhos/velocidade-potencia/
+[speed and power]: https://my-machinespluskdb.github.io/Neon-FAQS/manual/primeiros-trabalhos/velocidade-potencia/

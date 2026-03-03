@@ -8,11 +8,11 @@ Even within the category of papers, there may be variations in the finish depend
 
 To ensure both the quality of the finish and the feasibility of cutting a particular material, it is essential to conduct practical tests. We have developed an [article] where we provide tests with different parameter settings, allowing you to determine the best options for your specific materials and applications.
 
-[article]: https://gadgetpluskdb.github.io/-FAQS/truques-%26-dicas/testes-parametros/
+[article]: https://my-machinespluskdb.github.io/-FAQS/truques-%26-dicas/testes-parametros/
 
 The values presented in the table below are an initial reference and a starting point for configuring the cutting parameters. However, it is important to note that these values may vary depending on the composition of the material, the depth of the engraving, and other specific factors. We suggest reading the article ["The influence of speed and power for the same material"] to better understand these nuances and create your own personalized table.
 
-["The influence of speed and power for the same material"]: https://gadgetpluskdb.github.io/Carbon-FAQS/truques-%26-dicas/influ-velocidade-material/
+["The influence of speed and power for the same material"]: https://my-machinespluskdb.github.io/Neon-FAQS/truques-%26-dicas/influ-velocidade-material/
 
 ### Table
 
@@ -93,4 +93,4 @@ The values presented in the table below are an initial reference and a starting 
 
 You can download a PDF version of this table [here].
 
-[here]: https://gadgetpluskdb.github.io/Carbon-FAQS/transferencias/#tabela-de-parametros-pdf
+[here]: https://my-machinespluskdb.github.io/Neon-FAQS/transferencias/#tabela-de-parametros-pdf
