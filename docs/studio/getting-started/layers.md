@@ -1,4 +1,4 @@
-# Entender camadas e potências
+# Understand layers and powers
 
 <figure markdown="span">
   

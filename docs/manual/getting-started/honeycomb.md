@@ -1,46 +1,46 @@
-# Inserir a colmeia
+# Install the Honeycomb
 
-Neste guia, vamos explicar o processo de instalação da Colmeia. É bastante simples!
+In this guide, we will explain the honeycomb installation process. It's quite simple!
 
-## Por que usar a Colmeia?
+## Why use the Honeycomb?
 
-A Colmeia é um acessório recomendado para trabalhos que exigem cortes delicados e pequenos.
+The Honeycomb is a recommended accessory for work that requires delicate and small cuts.
 
-## Posicionamento da Colmeia
+## Honeycomb Positioning
 
-A Colmeia deve ser colocada na parte inferior da máquina com os pés de apoios virados para baixo. O processo é bastante simples.
+The Honeycomb should be placed at the bottom of the machine with the support feet facing downward. The process is quite simple.
 
 <!--
-e você pode conferir mais detalhes no vídeo demonstrativo.
-[Inserir link do vídeo aqui]
+and you can check more details in the demonstration video.
+[Insert video link here]
 -->
 
 <figure markdown="span">
 
   ![](../images/foto-interior-colmeia.png){ width="800" }
-  <figcaption>Figura 1 - Colmeia posicionada na parte inferior da máquina</figcaption>
+  <figcaption>Figure 1 - Honeycomb positioned at the bottom of the machine</figcaption>
 
 </figure>
 
-Como usar a Colmeia com materiais mais espessos?
-Se você precisa cortar materiais mais espessos, pode remover os pés e posicionar a Colmeia diretamente no fundo do inferior da máquina.
-Importante: Certifique-se de que não há restos de material ou sujeira sob a Colmeia. É fundamental que ela esteja nivelada para manter o foco ajustado ao longo da área de trabalho.
+How to use the Honeycomb with thicker materials?
+If you need to cut thicker materials, you can remove the feet and position the Honeycomb directly on the bottom of the machine.
+Important: Make sure there are no material remnants or dirt under the Honeycomb. It is essential that it is level to maintain focus adjustment across the work area.
 
 <figure markdown="span">
 
   ![](../images/foto-colmeia-pes.png){ width="800" }
-  <figcaption>Figura 2 - Colmeia com pés</figcaption>
+  <figcaption>Figure 2 - Honeycomb with feet</figcaption>
 
 </figure>
 
 <figure markdown="span">
 
   ![](../images/foto-colmeia.png){ width="800" }
-  <figcaption>Figura 3 - Colmeia sem pés</figcaption>
+  <figcaption>Figure 3 - Honeycomb without feet</figcaption>
 
 </figure>
 
-Ainda tem dúvidas? Entre em contato com o nosso suporte. Estamos aqui para ajudar!
+Still have questions? Contact our support. We're here to help!
 
 
 

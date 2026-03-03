@@ -1,4 +1,4 @@
-# Principio Basicos
+# Basic Principle
 
 <figure markdown="span">
   

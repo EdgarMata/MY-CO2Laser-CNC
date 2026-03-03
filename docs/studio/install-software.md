@@ -1,22 +1,22 @@
-# Installation of Carbon Studio
+# Installation of Neon Studio
 
-In this guide, we will explain how you can install the necessary programs to use your Gadget on Windows 10 or later versions.
+In this guide, we will explain how you can install the necessary programs to use your my-machines on Windows 10 or later versions.
 
-## Carbon Studio Software
+## Neon Studio Software
 
-Carbon Studio is an improved version of Inkscape, specifically designed to facilitate the use of your Carbon. Currently, it is only available for Windows 10 or higher operating systems.
+Neon Studio is an improved version of Inkscape, specifically designed to facilitate the use of your Neon. Currently, it is only available for Windows 10 or higher operating systems.
 
-## Instructions to install Carbon Studio
+## Instructions to install Neon Studio
 <!--
 You can follow the instructions in this video:
 
-[Video 1: Installing and using Carbon Studio.]
+[Video 1: Installing and using Neon Studio.]
 
 Or, if you prefer, follow the steps below:
 -->
 
 * Access the [downloads] page of the software.
-* Choose the link of Carbon Studio compatible with your Carbon.
+* Choose the link of Neon Studio compatible with your Neon.
 * You will be redirected to a page on Google Drive. Click on ==Download== > ==Download anyway== to start the download. ==Fig 1:==
 
 [downloads]: https://edgarmata.github.io/Carbon-FAQS/transferencias/
@@ -30,7 +30,7 @@ Or, if you prefer, follow the steps below:
 
 !!! info "Antivirus Warning"
       
-      If your browser or antivirus identifies the program as “Malicious” or “Unknown”, you can proceed with the download. Carbon Studio is safe and virus-free.
+      If your browser or antivirus identifies the program as “Malicious” or “Unknown”, you can proceed with the download. Neon Studio is safe and virus-free.
 
 * After the download, run the downloaded program.
 * If a Windows security message appears, click on ^^More info^^ and then ==Run anyway==
@@ -76,10 +76,10 @@ Or, if you prefer, follow the steps below:
   
 </figure>
 
-* Done, Carbon Studio is installed on your system!
+* Done, Neon Studio is installed on your system!
 
-Want to learn more about how to use the software? Keep following our series of articles about Carbon Studio [Here].
+Want to learn more about how to use the software? Keep following our series of articles about Neon Studio [Here].
 
 [Here]: https://edgarmata.github.io/Carbon-FAQS/studio/altualiza%C3%A7%C3%A3o-software/
 
-You have learned how to install the necessary software to control your Carbon on Windows 10 or later versions. Now, the next step is to connect your Carbon to the computer.
+You have learned how to install the necessary software to control your Neon on Windows 10 or later versions. Now, the next step is to connect your Neon to the computer.

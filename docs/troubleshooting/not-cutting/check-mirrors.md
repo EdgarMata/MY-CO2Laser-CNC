@@ -1,4 +1,4 @@
-# Verificar alinhamento dos espelhos
+# Check mirror alignment
 
 <figure markdown="span">
   

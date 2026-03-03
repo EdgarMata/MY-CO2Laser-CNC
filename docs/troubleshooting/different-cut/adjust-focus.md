@@ -1,4 +1,4 @@
-# Ajustar foco do laser
+# Adjust laser focus
 
 <figure markdown="span">
   

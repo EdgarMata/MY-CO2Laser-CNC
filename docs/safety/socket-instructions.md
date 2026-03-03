@@ -16,7 +16,7 @@ Three-pin outlets generally indicate the presence of grounding, but it is crucia
 
 The main objective of grounding the outlet is to reduce voltage variations in the electrical network, eliminate energy leaks, and protect users against possible electric shocks. It prevents shocks when using household appliances, for example.
 
-In the case of your Carbon, grounding is not just a safety issue but also influences the machine's operation. The CO2 laser requires high voltage (20,000 volts), generating an electromagnetic field that induces a current. This current must be directed to the ground; without it, it may end up going to the machine's control board, impairing the proper functioning of your Carbon or even damaging components.
+In the case of your Neon, grounding is not just a safety issue but also influences the machine's operation. The CO2 laser requires high voltage (20,000 volts), generating an electromagnetic field that induces a current. This current must be directed to the ground; without it, it may end up going to the machine's control board, impairing the proper functioning of your Neon or even damaging components.
 
 ## How can I check if my outlet has grounding?
 
@@ -37,15 +37,15 @@ In the case of your Carbon, grounding is not just a safety issue but also influe
 
 ## What are the signs that my outlet does not have grounding?
 
-The absence of grounding in the electrical network can result in some problems when using your Gadget Carbon, the main ones being:
+The absence of grounding in the electrical network can result in some problems when using your my-machines Neon, the main ones being:
 
 1.	Light shock when touching the machine's casing.
-2.	Loss of connection or interruption of work without warning in Carbon Studio.
+2.	Loss of connection or interruption of work without warning in Neon Studio.
 3.	Appearance of random lines during a job, not present in the file or preview.
 4.	Loss of steps due to high voltage influence on motors or the control board.
 5.	Damage to electronic components due to leaks and energy variations.
 
-Another important point is the use of power extensions, many of which have the third pin intended for grounding but may not have a third wire in their internal wiring. Whenever possible, it is recommended to use power strips with grounding or connect the power cable directly to your Carbon's outlet.
+Another important point is the use of power extensions, many of which have the third pin intended for grounding but may not have a third wire in their internal wiring. Whenever possible, it is recommended to use power strips with grounding or connect the power cable directly to your Neon's outlet.
 
 !!! warning "Important"
 

@@ -1,4 +1,4 @@
-# Janela inicial do seu Carbon Studio
+# Home window of your Neon Studio
 
 <figure markdown="span">
   

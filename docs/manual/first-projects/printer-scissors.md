@@ -10,9 +10,9 @@
   
 </figure>
 
-In this article, we will discuss the cutting, contouring, and filling functions available in the layer manager of your Carbon Studio. It is crucial to understand these distinctions to perform your work in the best possible way.
+In this article, we will discuss the cutting, contouring, and filling functions available in the layer manager of your Neon Studio. It is crucial to understand these distinctions to perform your work in the best possible way.
 
-The first step is to visualize the layer manager, located on the right side of Carbon Studio, as shown in Figure 1 below:
+The first step is to visualize the layer manager, located on the right side of Neon Studio, as shown in Figure 1 below:
 
 <figure markdown="span">
 

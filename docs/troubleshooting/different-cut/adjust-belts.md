@@ -1,4 +1,4 @@
-# Ajuste das correias de movimento
+# Adjusting the movement straps
 
 <figure markdown="span">
   

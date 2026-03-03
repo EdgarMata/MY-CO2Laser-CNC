@@ -1,4 +1,4 @@
-# Verificar sensor de temperatura
+# Check temperature sensor
 
 <figure markdown="span">
   

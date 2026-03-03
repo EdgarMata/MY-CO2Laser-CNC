@@ -1,4 +1,4 @@
-# Como limpar os espelhos da Carbon
+# How to clean Neon mirrors
 
 <figure markdown="span">
   

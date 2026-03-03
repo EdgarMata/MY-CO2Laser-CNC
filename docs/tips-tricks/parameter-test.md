@@ -84,7 +84,7 @@ This test is used to understand the best parameters for engraving on different t
 
 ## How to Execute G-code Files
 
-To use the G-code files we provide, you need to use the preview window of Carbon Studio. The window will not open if nothing is selected, so draw a small square or circle, select it, and click ++"preview"++ to open the window.
+To use the G-code files we provide, you need to use the preview window of Neon Studio. The window will not open if nothing is selected, so draw a small square or circle, select it, and click ++"preview"++ to open the window.
 
 <figure markdown="span">
 
@@ -102,7 +102,7 @@ With the preview window open, in the upper right corner, you will find an option
 
 </figure>
 
-Click on the ++"Load"++ option, find your G-Code file, it will be loaded into the preview window, and now just click ++"Carbon It"++
+Click on the ++"Load"++ option, find your G-Code file, it will be loaded into the preview window, and now just click ++"Neon It"++
 
 <figure markdown="span">
 

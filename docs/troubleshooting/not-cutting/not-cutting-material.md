@@ -1,4 +1,4 @@
-# Não corta até o fim
+# Don't cut until the end
 
 <figure markdown="span">
   

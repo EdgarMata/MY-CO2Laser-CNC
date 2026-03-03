@@ -1,4 +1,4 @@
-# Rede Wi-fi local de trabalho
+# Workplace Wi-Fi network
 
 <figure markdown="span">
   

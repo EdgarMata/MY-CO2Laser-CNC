@@ -1,4 +1,4 @@
-# Cartão SD
+# SD card
 
 <figure markdown="span">
   

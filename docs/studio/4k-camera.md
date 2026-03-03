@@ -1,4 +1,4 @@
-# Uso da câmera alta definição 4K
+# Using the 4K high definition camera
 
 <figure markdown="span">
   

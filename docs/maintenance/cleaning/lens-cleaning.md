@@ -1,4 +1,4 @@
-# Limpeza da lente de foco
+# Cleaning the focus lens
 
 <figure markdown="span">
   

@@ -1,4 +1,4 @@
-# Vetorizar arte de pixeis
+# Vectorize pixel art
 
 <figure markdown="span">
   

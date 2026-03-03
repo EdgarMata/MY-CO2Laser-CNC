@@ -1,4 +1,4 @@
-# Manter sempre o interior da máquina limpo
+# Always keep the inside of the machine clean
 
 <figure markdown="span">
   

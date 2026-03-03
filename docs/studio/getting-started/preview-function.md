@@ -1,4 +1,4 @@
-# Janela de pré visualização do Carbon Studio
+# Neon Studio preview window
 
 <figure markdown="span">
   

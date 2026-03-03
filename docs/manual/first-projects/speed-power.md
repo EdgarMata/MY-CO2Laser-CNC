@@ -33,7 +33,7 @@ Finding this balance is essential to achieving consistent and satisfactory resul
 * The higher the speed and the lower the power, the shallower the cut or engraving.
 * Lower speed and higher power will result in a deeper action.
 
-## Setting parameters in Carbon Studio
+## Setting parameters in Neon Studio
 
 The parameters are adjusted according to the layer selected in the software, available on the right side of the screen. Precision in defining these parameters is essential to ensure the success of the cutting or engraving process.
 
@@ -54,8 +54,8 @@ Due to the variety of materials and their specific characteristics, it is import
 
 ### To facilitate this process, we have developed cutting templates!
 
-These templates allow you to test various parameter combinations, helping to identify the optimal setting for each type of material. Additionally, we [provide] some files in Carbon Studio to simplify this testing and adjustment process.
+These templates allow you to test various parameter combinations, helping to identify the optimal setting for each type of material. Additionally, we [provide] some files in Neon Studio to simplify this testing and adjustment process.
 
 [provide]: https://gadgetpluskdb.github.io/Carbon-FAQS/transferencias/#arquivos-para-testes-de-parametros
 
-In this article, we deepened our understanding of speed and power parameters, explored how to configure them in Carbon Studio, and recognized the importance of practical tests to determine the ideal adjustments. This information is fundamental to ensuring consistent and high-quality results in the laser cutting process.
+In this article, we deepened our understanding of speed and power parameters, explored how to configure them in Neon Studio, and recognized the importance of practical tests to determine the ideal adjustments. This information is fundamental to ensuring consistent and high-quality results in the laser cutting process.

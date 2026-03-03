@@ -1,4 +1,4 @@
-# O laser está fraco?
+# Is the laser weak?
 
 <figure markdown="span">
   

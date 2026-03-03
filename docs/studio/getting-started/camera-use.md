@@ -1,4 +1,4 @@
-# Como ulilizar a camera de 4k da sua Carbon
+# How to use your Neon’s 4k camera
 
 <figure markdown="span">
   

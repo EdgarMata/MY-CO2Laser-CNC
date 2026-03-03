@@ -6,7 +6,7 @@ The focus adjustment.
 
 ### But why is it so important to adjust the focus?
 
-To understand the relevance of this procedure, it is essential to comprehend that, before reaching the material, the laser passes through a lens! This lens has the function of concentrating the laser energy at a specific point (the ideal focus), ensuring a precise cut on your Carbon.
+To understand the relevance of this procedure, it is essential to comprehend that, before reaching the material, the laser passes through a lens! This lens has the function of concentrating the laser energy at a specific point (the ideal focus), ensuring a precise cut on your Neon.
 
 <figure markdown="span">
 
@@ -61,6 +61,6 @@ The best way to notice when the focus is not adjusted is to observe the thicknes
 
 In this article, we learned about the importance of adjusting the focus and how easy it is to do it! Now, just stay alert and do not forget to perform this procedure whenever you change the material.
 
-Follow our series of first steps articles to learn how to position the [material] on the Carbon.
+Follow our series of first steps articles to learn how to position the [material] on the Neon.
 
 [material]: https://gadgetpluskdb.github.io/Carbon-FAQS/manual/primeiros-trabalhos/material/

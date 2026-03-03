@@ -1,6 +1,6 @@
-# Table of Speeds and Powers for the Carbon
+# Table of Speeds and Powers for the Neon
 
-There are numerous materials that can be subjected to laser cutting and engraving, offering a wide range of options to explore with your Carbon. Except for certain materials, such as PVC and Vinyl, which can be harmful when cut, the list of compatible materials is extensive.
+There are numerous materials that can be subjected to laser cutting and engraving, offering a wide range of options to explore with your Neon. Except for certain materials, such as PVC and Vinyl, which can be harmful when cut, the list of compatible materials is extensive.
 
 Since the laser essentially "burns" the material to perform the cut or engraving, it is natural to expect that the required power will vary according to the type of material. For example, the power required to cut paper will be considerably different from that required to cut wood.
 
@@ -8,7 +8,7 @@ Even within the category of papers, there may be variations in the finish depend
 
 To ensure both the quality of the finish and the feasibility of cutting a particular material, it is essential to conduct practical tests. We have developed an [article] where we provide tests with different parameter settings, allowing you to determine the best options for your specific materials and applications.
 
-[article]: https://gadgetpluskdb.github.io/Carbon-FAQS/truques-%26-dicas/testes-parametros/
+[article]: https://gadgetpluskdb.github.io/-FAQS/truques-%26-dicas/testes-parametros/
 
 The values presented in the table below are an initial reference and a starting point for configuring the cutting parameters. However, it is important to note that these values may vary depending on the composition of the material, the depth of the engraving, and other specific factors. We suggest reading the article ["The influence of speed and power for the same material"] to better understand these nuances and create your own personalized table.
 

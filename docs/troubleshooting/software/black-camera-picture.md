@@ -1,4 +1,4 @@
-# A Camera está a mostrar tudo preto.
+# The Camera is showing everything black.
 
 <figure markdown="span">
   

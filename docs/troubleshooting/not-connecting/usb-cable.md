@@ -1,4 +1,4 @@
-# A minhã maquina não está a conectar por USB
+# My machine is not connecting via USB
 
 <figure markdown="span">
   

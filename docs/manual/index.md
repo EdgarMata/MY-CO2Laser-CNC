@@ -8,14 +8,14 @@ title: Online Manual
 ## Welcome to the online manual
 
 We are immensely pleased to congratulate you on the purchase of this product.
-This is the Instruction Guide for the Carbon Laser Cutting and Engraving Machine, an innovative creation by Gadget.
+This is the Instruction Guide for the Neon Laser Cutting and Engraving Machine, an innovative creation by My-machines.
 
-Carbon is a machine that combines convenience, precision, and efficiency in a single device, representing an affordable solution without compromising excellence.
+Neon is a machine that combines convenience, precision, and efficiency in a single device, representing an affordable solution without compromising excellence.
 
 Here you will find all the essential information for users to make the most of the resources and possibilities of this product, from initial setup to advanced operation tips.
 
-We are excited to have you on board this journey of discovery and achievement with the Carbon Laser Cutting and Engraving Machine.
-On behalf of the entire Gadget team, we wish you incredible experiences and impressive results.
+We are excited to have you on board this journey of discovery and achievement with the Neon Laser Cutting and Engraving Machine.
+On behalf of the entire My-machines team, we wish you incredible experiences and impressive results.
 
 Welcome to the future of laser cutting and engraving technology!
 
@@ -36,8 +36,8 @@ Welcome to the future of laser cutting and engraving technology!
 * Keep a fire extinguisher near the machine and know how to use it in case of fire. Keep flammable materials away from the work area.
 * In case of malfunction, immediately turn off the machine and contact support.
 
-Safety during the operation of the Carbon Laser Cutting and Engraving Machine is an absolute priority.
-To ensure safe and risk-free operation, Carbon is equipped with intelligent sensors that constantly monitor operating conditions:
+Safety during the operation of the Neon Laser Cutting and Engraving Machine is an absolute priority.
+To ensure safe and risk-free operation, Neon is equipped with intelligent sensors that constantly monitor operating conditions:
 
 1. Open Lid Sensor, which does not allow the process to proceed when the lid is not properly closed.
 2. Temperature Sensor, which pauses operation in conditions of excessive heat.
@@ -73,7 +73,7 @@ Use distilled or demineralized water in the cooling system to prevent the format
 
 </figure>
 
-1. Carbon - Laser Cutting and Engraving Machine
+1. Neon - Laser Cutting and Engraving Machine
 2. Instruction Manual
 3. Power Cable
 
@@ -162,7 +162,7 @@ E. On/Off Button
 |Weight                        |45Kg                                      |
 |Voltage                       |220V/240V                                 |
 |Connections                   |USB                                       |
-|Control Software              |Carbon Studio                             |
+|Control Software              |Neon Studio                             |
 
 ## Machine Installation
 
@@ -184,11 +184,11 @@ E. On/Off Button
 
 ---
 
-Now, to proceed with the next steps of configuring the machine, we will need to connect the machine to a computer through the Carbon software.
+Now, to proceed with the next steps of configuring the machine, we will need to connect the machine to a computer through the Neon software.
 
 ## Software Installation
 
-1. Download Carbon Studio from our website: www.gadgetplus.pt
+1. Download Neon Studio from our website: https://my-machines.net/
 2. With the program open, connect via Wifi or USB cable. See below how each type of connection works:
 
 ![](../images/setup01.png){ align=left }
@@ -219,20 +219,20 @@ There you can find operating instructions, safety tips, usage tips, and possible
 You can also get the latest versions of the guides and software.
 If you have additional questions, our support team is available to assist you.
 
-[suporte@gadgetplus.pt]
+[support@my-machines.net]
 
-[suporte@gadgetplus.pt]: mailto:suporte@gadgetplus.pt
+[support@my-machines.net]: mailto:support@my-machines.net
 
 ## Warranty
 
-This product is manufactured under the strict quality control system of Gadget Lda.
+This product is manufactured under the strict quality control system of my-machines Lda.
 
-If the product fails within three (3) years from the date of purchase, under normal use conditions, Gadget Lda will repair or replace the product free of charge in the following ways:
+If the product fails within three (3) years from the date of purchase, under normal use conditions, my-machines Lda will repair or replace the product free of charge in the following ways:
 
 * Using new or refurbished replacement parts.
 * Exchanging the product for a new product or one that has been manufactured with new or usable used parts, with performance at least equivalent to the original product.
 
-Proof of the purchase date must be confirmed and sent along with a copy of the original purchase document. The warranty is valid under normal use conditions. The warranty covers failure in the Gadget Plus, Lda product that could be related to material and/or manufacturing errors. The warranty is valid only in the country of purchase.
+Proof of the purchase date must be confirmed and sent along with a copy of the original purchase document. The warranty is valid under normal use conditions. The warranty covers failure in the my-machines, product that could be related to material and/or manufacturing errors. The warranty is valid only in the country of purchase.
 
 The warranty is not valid in the following cases:
 
@@ -243,10 +243,10 @@ The warranty is not valid in the following cases:
 * If the product has been modified, repaired, or disassembled by unauthorized personnel.
 * In these cases, the costs of shipping, repairing parts, and/or replacement are not included in the warranty.
 
-[www.gadgetplus.pt]
+[www.my-machines.net]
 
-[www.gadgetplus.pt]: https://www.gadgetplus.pt
+[www.my-machines.net]: https://my-machines.net/
 
-[suporte@gadgetplus.pt]
+[support@my-machines.net]
 
-[suporte@gadgetplus.pt]: mailto:suporte@gadgetplus.pt
+[support@my-machines.net]: mailto:support@my-machines.net
